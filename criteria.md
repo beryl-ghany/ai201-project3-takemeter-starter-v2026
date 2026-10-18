@@ -51,61 +51,43 @@ whether you hit them:
 
 ---
 
-## 1.
+## 1. Held-out accuracy is at least 0.60
 
-<!-- Your criterion. It must name a number. -->
+On the notebook's held-out test split, accuracy is at least 0.60.
 
-
-
-**Why this target:**
-
-
+**Why this target:** Three labels means a guesser who ignores the text lands near 0.33. 0.60 is high enough that sorting a feed with it would beat guessing, and low enough that it can still hold on all three seeds in the next unit. A 0.75 target would be a guess about a model that has not been trained.
 
 ---
 
-## 2.
+## 2. Every label has an F1 of at least 0.50
 
-<!-- Your criterion. -->
+On the held-out test split, `analysis`, `hot_take`, and `reaction` each have an F1 of at least 0.50.
 
-
-
-**Why this target:**
-
-
+**Why this target:** `reaction` is the smallest label, about 58 posts, so only about 8 or 9 of them land in the test split. An F1 on that many posts jumps between seeds. 0.50 is above a one-in-three guess without demanding 0.70 from a handful of examples. One label is not allowed to collapse while the overall accuracy still looks fine.
 
 ---
 
-## 3.
+## 3. No label is above 45% of labels.csv
 
-<!-- Your criterion. -->
+In `labels.csv`, no label's share is above 0.45.
 
-
-
-**Why this target:**
-
-
+**Why this target:** The course cap is 70%. A file can sit under that cap and still be a majority class the model learns to guess. 45% means there is no majority label. The file I am about to train on is roughly 37% analysis, 35% hot_take, and 28% reaction, so this is a property of the data, checked before any score exists.
 
 ---
 
-## 4.
+## 4. A second labeler agrees on at least 0.70 of a 30-post sample
 
-<!-- Your criterion. -->
+On a shared sample of at least 30 posts, a second person applying these same definitions agrees with the label in `labels.csv` at least 70% of the time.
 
-
-
-**Why this target:**
-
-
+**Why this target:** The hard boundary is analysis versus hot_take, and box scores sit on reaction versus analysis, so perfect agreement is not realistic. Chance agreement for three labels is about 0.33. 0.70 says two people would apply the taxonomy the same way on most posts and still leaves room for the posts the decision rule exists to settle.
 
 ---
 
-## 5.
+## 5. Predictions at confidence 0.80 or higher are at least 0.70 accurate, and more accurate than the rest
 
-<!-- Your criterion. -->
+On the held-out set, accuracy among predictions whose top-label probability is at least 0.80 is at least 0.70, and that accuracy is higher than accuracy on predictions below 0.80.
 
-
-
-**Why this target:**
+**Why this target:** A score I would use as a filter has to be right more often when it is sure. 0.90 would be brittle: the confident slice of a test set of about 30 posts is small, and one or two misses swing it. 0.70 is the line where I would trust the sure calls more than the unsure ones.
 
 
 
