@@ -135,9 +135,9 @@ A fourth case changed a label during the review. "SGA is BETTER THAN KOBE" reads
 
 **Anything I changed from the defaults, and why:** Nothing. The labels are the part that was in doubt, not the hyperparameters.
 
-**Device:** cpu. `test.py` reports PyTorch 2.14.1+cpu. `results.json` is the record that counts, and it should say the same thing after section 5.
+**Device:** cpu. `results.json` records `"device": "cpu"`, `"device_name": "CPU"`, and `"torch_version": "2.14.1+cpu"`. Two runs of this same file on different hardware can land on different numbers, because the arithmetic is not in the same order. That belongs next to the three seeds in the next unit.
 
-**Split sizes:** SPLIT_HERE
+**Split sizes:** Seed 42, 70/15/15. Train 144, validation 31, test 32. In the test split: analysis 12, hot_take 11, reaction 9. Every label has at least 8 test posts. `reaction` is the smallest, so its F1 will move the most between seeds.
 
 ---
 
