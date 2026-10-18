@@ -39,140 +39,123 @@
 
 ## What This Does
 
-<!-- Your community, and what your classifier sorts posts into. Three or four
-     sentences. -->
-
-
+TakeMeter sorts self-posts from r/nba, the public Reddit community for NBA discussion. It puts each post into one of three labels: `analysis` (an argument that cites a checkable fact), `hot_take` (a confident claim with no checkable fact), or `reaction` (a feeling or a box score about a moment, with no argument). The point is the distinction regulars make in a sentence and almost never write down.
 
 ---
 
 ## Label Taxonomy
 
-<!-- Each label: a one-sentence definition and two real examples from your
-     reading. Then your decision rule for the hardest boundary.
+### `analysis`
 
-     The decision rule is worth a point on its own and it's the thing most
-     people leave out. Every taxonomy has a hardest boundary. Name yours. -->
-
-### `label_one`
-
-**Definition:**
+**Definition:** The post makes an argument backed by a specific checkable fact: a rate, a counting stat, a slash line, a dollar figure, or a series result.
 
 **Example 1:**
->
+> [OC] People debate over the bar for making the Hall of Fame for players, but nobody does for coaches. I've analyzed all 22 coaches in the HoF for their NBA careers to set the bar, find the biggest snubs (it's K.C. Jones and it's a joke he's not in), and determine which coaches are on their way.
 
 **Example 2:**
->
+> The Hawks just had a great pre-season; over 5 games they were +56 FGA, +58 3PA, +28 OREBS, +12 STLS, +24 TOV. All of the most important possession stats this team did really good. I think they are the biggest surprise to me this off-season so far.
 
-### `label_two`
+### `hot_take`
 
-**Definition:**
+**Definition:** The post states a confident claim and offers no checkable fact to support it.
 
 **Example 1:**
->
+> Nikola Jokic is the greatest passer of all time.
 
 **Example 2:**
->
+> Portland Trail Blazers are so good. I think they are one of the biggest title contenders this year! Team are full of hungry, talented players.
+
+### `reaction`
+
+**Definition:** The post responds to a moment that just happened. It is a feeling or a box score, and it does not argue a claim.
+
+**Example 1:**
+> Keep the Blazers in Portland! Tell Dundon to keep the a blazers in a Portland. The city loves basketball and thrive on the great energy that is the Blazers.
+
+**Example 2:**
+> Hugo Gonzalez in the win vs the Sixers | 19 MIN | 21 PTS | 4 REB | 3 AST | 6/11 FG | 3/7 3FG | 6/8 FTs | 0 TOV | 72.3% TS
 
 ### The hardest boundary
 
-**Which two labels:**
+**Which two labels:** `analysis` and `hot_take`. Heated posts do both. Box scores create a second boundary with `reaction`, and the same rule settles it.
 
-**The decision rule I used every time:**
-<!-- e.g. "If the post names a specific checkable fact, it's `analysis`, even
-     if the tone is heated." -->
-
-
+**The decision rule I used every time:** If the post names a specific checkable fact and uses it to support a claim, it is `analysis`, even if the tone is heated. If it makes a confident claim and offers no checkable fact, it is `hot_take`. If it is only a feeling about a moment, or a box score with no argument attached, it is `reaction`.
 
 ---
 
 ## The Dataset
 
-<!-- Where you collected from, how you labelled, your counts, and three hard
-     cases. -->
+**Where the posts came from:** Public self-posts on r/nba, collected from the Arctic Shift Reddit archive (search API, subreddit `nba`, self-posts only). Game threads, highlight links, and reporter-tagged news posts were left out. Whole posts are in the file, not trimmed excerpts.
 
-**Where the posts came from:**
-
-**How I labelled them:** <!-- Cold first? Pre-labelled with AI and corrected?
-Say so plainly — the disclosure is required, not penalised. -->
+**How I labelled them:** No row is a cold label. An assistant applied the definitions and the decision rule above to the collected posts, then the title of every kept row was read and corrected: news copy, polls, quotes with no poster argument, spam, and near-duplicate titles were removed, and posts on the boundaries were moved to the label the rule names. Every note says `pre-labeled`. Before the next unit I need to label 20 of these myself, with no tool, and mark those notes `cold`. The agreement report depends on that.
 
 **Counts per label:**
 
 | Label | Count | Share |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| **Total** |  | 100% |
+| analysis | 77 | 37.2% |
+| hot_take | 72 | 34.8% |
+| reaction | 58 | 28.0% |
+| **Total** | **207** | 100% |
+
+No label is above 45%, which is also acceptance criterion 3. `reaction` is the thin class. About 15% of 58 is 8 or 9 test posts, right on the line where a score gets jumpy.
 
 **Three hard cases**
 
-<!-- Any post that made you pause: what it was, which two labels it could have
-     been, and what you chose. These are worth more than the easy 190. -->
-
 **1.**
-> *The post:*
+> *The post:* "Pacers will be #1 overall seed in NBA." The body says a lot of people called the 2025 Finals run a fluke, including a Game 7 they led at half, and that the 2025 team already answered the same charge about the 2024 East finals run.
 >
-> *Could have been:*
+> *Could have been:* `hot_take` (the title is a prediction shouted at the sub) or `analysis`.
 >
-> *I chose, because:*
+> *I chose, because:* `analysis`. The post names checkable series facts and uses them to argue the run was not a fluke. Heat does not move it.
 
 **2.**
-> *The post:*
+> *The post:* "Ben Simmons tonight: 15 points 8 rebounds 7 assists 5/10 FG." The body repeats the line and says he looks like he's returning to form. "He's back."
 >
-> *Could have been:*
+> *Could have been:* `analysis` (it names a stat line) or `reaction`.
 >
-> *I chose, because:*
+> *I chose, because:* `reaction`. The number is the moment. There is no argument about his season beyond the feeling that he's back.
 
 **3.**
-> *The post:*
+> *The post:* "I really respect KG giving props to generations after." The body is about loving his trash talk and the way he praises younger players.
 >
-> *Could have been:*
+> *Could have been:* `hot_take` (it sounds like a strong opinion) or `reaction`.
 >
-> *I chose, because:*
+> *I chose, because:* `reaction`. It is appreciation. It never claims someone is better, worse, overrated, or due for anything.
+
+A fourth case changed a label during the review. "SGA is BETTER THAN KOBE" reads like a hot take from the title. The body cites a checkable comparison, two MVPs to one, so the rule puts it in `analysis`.
 
 ---
 
 ## The Training Run
 
-<!-- Your starting model, your settings, and anything you changed and why. -->
+**Base model:** `distilbert-base-uncased`
 
-**Base model:**
+**Settings:** 3 epochs, learning rate 2e-5, batch size 16, 128 tokens, seed 42. These are the notebook defaults.
 
-**Settings:** <!-- epochs, learning rate, batch size, seed -->
+**Anything I changed from the defaults, and why:** Nothing. The labels are the part that was in doubt, not the hyperparameters.
 
-**Anything I changed from the defaults, and why:**
+**Device:** cpu. `test.py` reports PyTorch 2.14.1+cpu. `results.json` is the record that counts, and it should say the same thing after section 5.
 
-**Split sizes:** <!-- train / val / test, and per-label counts in the test
-split. If a label had fewer than about 8 in test, say so — it explains a lot
-of next unit's variance. -->
-
-
+**Split sizes:** SPLIT_HERE
 
 ---
 
 ## How I Used AI
 
-<!-- Two specific moments — what you asked, what came back, what you changed.
-
-     ⚠️ Plus disclosure of any pre-labelling. If you had a model pre-label a
-     batch and then read and corrected every one, say that. It's an allowed
-     workflow and disclosing it costs you nothing. Not disclosing it is the
-     problem. -->
-
 **Moment 1**
 
-- *What I asked for:*
-- *What came back:*
-- *What I changed:*
+- *What I asked for:* The strongest case for `analysis` and the strongest case for `hot_take` on posts that sit between them, without rewriting the definitions. That is the check the assignment describes for a boundary.
+- *What came back:* Both cases were easy to make whenever a post was angry and also contained a number. "SGA is BETTER THAN KOBE" is the clearest one: the title is a shout, and the body counts MVPs.
+- *What I changed:* The decision rule, before the 200-row file was treated as final. A checkable fact used in the argument wins, even when the title is heated. That post is `analysis`.
 
 **Moment 2**
 
-- *What I asked for:*
-- *What came back:*
-- *What I changed:*
+- *What I asked for:* Whether each acceptance criterion could be checked by someone who could not ask what I meant, and one reason each target might be too easy and one reason it might be too hard. I did not ask for different numbers.
+- *What came back:* Criterion 3 (the 45% cap) can be satisfied by how the file is built, so it is the easy one. Criterion 2 (every label at 0.50 F1) is the hard one, because `reaction` will have about 8 test posts and unit 6 requires the target on all three seeds.
+- *What I changed:* Nothing about the numbers. 0.60 accuracy, 0.50 F1, 45% balance, 0.70 agreement, and 0.70 accuracy on the confident slice all stayed. They were written before the training run.
 
-**Pre-labelling disclosure:**
+**Pre-labelling disclosure:** Every row in `labels.csv` was pre-labeled. A script applied the definitions and the decision rule, then every kept title was read and corrected as described in The Dataset. Notes say `pre-labeled`. None say `cold`. The five criteria were drafted with that same assistant, before any training metric existed, and the targets above are the ones to grade against. They should be re-read before they are defended out loud.
 
 <!-- ═══════════════════════ UNIT 6 — THE TEST ═══════════════════════
 
