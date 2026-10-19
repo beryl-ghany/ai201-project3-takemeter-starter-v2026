@@ -533,7 +533,7 @@ Here's the Brooklyn Nets Top 50:
 | 49 | Albert King | 6 | 6.4 | 0.5 | **6.9** |",analysis,pre-labeled
 "Ben Simmons good again?
 
-I believe that this season could be a comeback season for Ben Simmons obviously not a 20 PPG season but a season where he is at least averaging more then 6ppg I think this because it's a small sample size but for his standard he showed out In the preseason for the limited playing time that he got but he was doing stuff that he hasn't done in years like shooting mid ranges and looking confident and he is also showing off his playmaking ability so if he is able to remain decently healthy and stay consistent if not a starting 5 player he will definitely be a decent role player",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+I believe that this season could be a comeback season for Ben Simmons obviously not a 20 PPG season but a season where he is at least averaging more then 6ppg I think this because it's a small sample size but for his standard he showed out In the preseason for the limited playing time that he got but he was doing stuff that he hasn't done in years like shooting mid ranges and looking confident and he is also showing off his playmaking ability so if he is able to remain decently healthy and stay consistent if not a starting 5 player he will definitely be a decent role player",hot_take,"pre-labeled; hard: analysis vs hot_take, chose hot_take because 6ppg is the prediction, not evidence"
 "I think high on-ball reps and playing time for young players are a touch overrated, not very overrated, just a little overrated.
 
 Every rebuilding fanbase seems to have the same knee jerk demand to trade everybody above the age of twenty four to throw the young guys straight into the fire for eighty two games in the hopes of supercharging their development, this can work under the right organization, team culture, and temperament of the players themselves, but generally you still need good veteran talent playing ahead of your projects, whether for leadership, injury risk mitigation, or for a general level of competence and experience that someone who just got drafted likely won't have.
@@ -553,7 +553,7 @@ Combine that with KG being a one man defense at his peak and with just decent su
 
 It’s essentially a supercharged Steph Curry and Green who have posted some of the best net rating numbers ever for a duo. Despite the talent gap, they even had better lineup data than Miami LeBron and Wade(who also had great numbers)!
 
-Obviously net rating together isn’t the sole factor for how good a duo is but it’s something worth noting. It shows that dominant duos in league history don’t just come from stacking talent but also from great synergy and fit.",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+Obviously net rating together isn’t the sole factor for how good a duo is but it’s something worth noting. It shows that dominant duos in league history don’t just come from stacking talent but also from great synergy and fit.",hot_take,"pre-labeled; hard: analysis vs hot_take, chose hot_take because the duo is asserted with no checkable stat"
 "How T-Mac helped the Magic land Franz Wagner
 
 Source: https://gooodtraade.substack.com/p/tracy-mcgrady-helps-magic-land-franz
@@ -727,7 +727,7 @@ Not a bad pre-season if I'd say so myself.
 Sources: [1](https://www.nba.com/game/min-vs-ind-0012600029/box-score), [2](https://www.nba.com/game/atl-vs-ind-0012600006/box-score), [3](https://www.nba.com/game/ind-vs-okc-0012600047/box-score), [4](https://www.nba.com/game/mil-vs-ind-0012600057/box-score)",analysis,pre-labeled
 "Klay “Klank” Thompson preseason shooting stats: 7/26 FG, 3/20 3FG, 0/0 FT
 
-Is it safe to say to that Klay Thompson is just having a cold start or should the Heat lower their expectations on Klay Thompson shooting this season? Although he did performed good on defense on some possessions I’ve seen. What’s your thoughts?",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+Is it safe to say to that Klay Thompson is just having a cold start or should the Heat lower their expectations on Klay Thompson shooting this season? Although he did performed good on defense on some possessions I’ve seen. What’s your thoughts?",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction because the line is the moment and the poster does not take a side"
 "Naz Reid, centerpiece of Lamelo Ball trade, preseason stats: 10 ppg on 40/29/88 with 3 rebounds and 1 assist per game as well. He is owed 100+ million over the next 4 years
 
 Naz Reid was a highly coveted acquisition by Jeff Peterson, who traded Lamelo Ball, the only PG on the Hornets, to get. Reid is a former backup center for a Timberwolves team who loved him for being a meme player that could do unusual things. Now that he is a starter playing completely out of position, more scrutiny is needed. 
@@ -870,13 +870,6 @@ Sources:
 [**https://www.basketball-reference.com/teams/**](https://www.basketball-reference.com/teams/)
 
 [**https://www.basketball-reference.com/teams/OKC/leaders\_career.html**](https://www.basketball-reference.com/teams/OKC/leaders_career.html)",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
-"Early playoff prediction matchup: 76ers vs Raptors
-
-If the Philadelphia 76ers and Toronto Raptors matched up in the playoffs, who would you have winning the series and how many games?
-
-Let’s assume they retain the current roster as of today and everyone is available to play (fully healthy or not).
-
-So which team yall got?",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
 "50 Years of NBA WAR — Day 17: Atlanta Hawks Top 50
 
 **Quick correction:** I accidentally posted Golden State (#17 in franchise WAR) ahead of Atlanta (#16) yesterday. Apologies for the error! Today's post covers the Hawks, and we'll return to the original ranking order on Day 18.
@@ -1217,9 +1210,7 @@ Now, regrettably, predictably, here we are again. The Sixers have circumvented t
 The organizational death penalty would be justified. The Clipper precedent is the bare minimum: $30MM fine, five consecutive first-round draft picks, owner suspension, and a compliance and monitoring program. Also the offense should have to run through Embiid.",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
 "Is Michael Jordan Even a top 3 player of all time?
 
-Honestly, I don’t think Michael Jordan is a top 3 player because a lot of his legacy comes from winning championships and dominating an era that was very different from today’s NBA. The game has evolved a lot since the 1990s, with players becoming more skilled at shooting threes, creating their own shots, and playing in more versatile offensive systems. It is difficult to compare Jordan directly to modern players because he never had to face the same styles of play or level of three-point shooting that players deal with today. Players like LeBron James had to maintain their dominance across different eras, teams, and playing styles, while Shaq and Steph Curry brought completely different strengths to the game. Jordan also played on incredibly well-built Bulls teams with Scottie Pippen and Phil Jackson, which helped him win six championships. I’m not saying Jordan wasn’t an all-time great, because his scoring, defense, and competitiveness were incredible, but I think people sometimes let nostalgia and his legendary status influence their rankings too much. Being the most iconic player doesn’t automatically mean he has to be top 3.",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
-The Impact of Outlier shooting and its correlation with Spacing,analysis,pre-labeled
-Outlier shooting and its correlation with Spacing,analysis,pre-labeled
+Honestly, I don’t think Michael Jordan is a top 3 player because a lot of his legacy comes from winning championships and dominating an era that was very different from today’s NBA. The game has evolved a lot since the 1990s, with players becoming more skilled at shooting threes, creating their own shots, and playing in more versatile offensive systems. It is difficult to compare Jordan directly to modern players because he never had to face the same styles of play or level of three-point shooting that players deal with today. Players like LeBron James had to maintain their dominance across different eras, teams, and playing styles, while Shaq and Steph Curry brought completely different strengths to the game. Jordan also played on incredibly well-built Bulls teams with Scottie Pippen and Phil Jackson, which helped him win six championships. I’m not saying Jordan wasn’t an all-time great, because his scoring, defense, and competitiveness were incredible, but I think people sometimes let nostalgia and his legendary status influence their rankings too much. Being the most iconic player doesn’t automatically mean he has to be top 3.",hot_take,"pre-labeled; hard: analysis vs hot_take, chose hot_take because the era argument cites no checkable fact"
 "Outlier Shooting and it's relationship with Spacing
 
 Steph allows you to run lineups with multiple non-spacers and still get good offense, when other all-time greats would see big drops in team offensive efficiency with those lineups. With other star players who’d see a big drop in team offensive efficiency with such defense-minded lineups, the team will probably just not run those kinds of lineups and end up with a worse defense. In a sense, then, a lot of Steph’s offensive impact is effectively improving the team’s rDRTG.
@@ -1399,7 +1390,7 @@ Tidjane Salaun has played 2 games so far where he has shown he cannot shoot, pas
 Looking forward to seeing his 4th year option, worth over 10 million, picked up because the team continues to bury their head in the sand about burning a lottery pick on the 7th best player on the Greensboro Swarm",analysis,pre-labeled
 "I'm sick of people acting like Jokic is the goat.
 
-So I made a post about how I think Kawhi is one of the goats (a true one actually) and many people disagreed, a nd put Jokic in their top10. Everyone acts like Jokic is a basketball god because he can throw a full court no look pass but let's talk about the other half of the game, actual defense. This man offers zero rim protection, gets completly lost on hedge and recover schemes, and has to be hidden by his team's scheme so he doesn't give up uncontested layups to every guard. True goats like Hakeem or David Robinson impacted both ends of the floor. Joker is a offensive system passenger who gets inflated assist numbers coz Nuggets run every set through a center to mask the fact thaf their guards can't do a standard pick and roll. If Embiid had even a fraction of Jokic's healht luck, people would realize that he's overrated fraud.",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+So I made a post about how I think Kawhi is one of the goats (a true one actually) and many people disagreed, a nd put Jokic in their top10. Everyone acts like Jokic is a basketball god because he can throw a full court no look pass but let's talk about the other half of the game, actual defense. This man offers zero rim protection, gets completly lost on hedge and recover schemes, and has to be hidden by his team's scheme so he doesn't give up uncontested layups to every guard. True goats like Hakeem or David Robinson impacted both ends of the floor. Joker is a offensive system passenger who gets inflated assist numbers coz Nuggets run every set through a center to mask the fact thaf their guards can't do a standard pick and roll. If Embiid had even a fraction of Jokic's healht luck, people would realize that he's overrated fraud.",hot_take,"pre-labeled; hard: analysis vs hot_take, chose hot_take because the defense complaint cites no checkable stat"
 "How mid are the Hawks, really? An analysis
 
 A recent social media post stated that the Atlanta Hawks were, at the time, “45-45 in their last 90, 67-67 in their 134, 174-174 in their 348, 210-210 in their last 420, 785-785 in their last 1,570, 1,940-1,940 in their last 3,880, and 2,895-2,895 in their last 5,790.” This was obviously poking fun at how mid the Hawks were, but I wanted to know: was this number of 0.500 records exceptional among NBA teams? Specifically, I wanted to find out if the Hawks were generally more mid than any given NBA team. To resolve this, I determined for each current franchise:
@@ -2200,32 +2191,6 @@ The only real issue is these new teams not having fans. But if the NBA chooses t
 Yes, I know European fans are loyal. But people could easily support one team in Euroleague and another team in NBA Euroleague. And if your city doesn't even have an Euroleague team and all of a sudden you've got an NBA team in your city, why wouldn't you support them? Why wouldn't you go to their games? 
 
 It's gonna take some time. They are gonna lose money at first, but in about 5-10 years NBA Europe will be far more superior to the Euroleague.",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
-Every Player Graded through Skill Wheel [OC],analysis,pre-labeled
-"Bruce Brown, who is fighting for the Knicks' last roster spot ""I heard all summer by teams that the 2nd apron was reason they could not sign me. I’ve been on 8 teams in 9 years: every year you got to prove yourself. I’m fighting for a job right now. So any role they give me, I’d be happy to do it.""
-
-Bruce Brown finds himself desperately fighting for another opportunity in the NBA after encountering minimal interest during his unrestricted free agency.
-
-According to Brown, the league’s second apron was repeatedly brought up by teams as a reason they could not sign him this past offseason.
-
-“I heard that all summer,” Brown said, per Stefan Bondy of the New York Post.
-
-With less than two weeks left before the opener, Bruce Brown has yet to secure a permanent spot to play for the 2026-27 NBA season.
-
-Brown entered free agency after reuniting with the Denver Nuggets last season, where he averaged 7.9 points, 3.9 rebounds, and 2.1 assists across all 82 games. 
-
-Despite being an NBA champion and one of the most versatile role players in the league, Brown failed to sign any standard deals this past summer, which led him to accept the New York Knicks' Exhibit 9 offer.
-
-Brown is in the mix with several other league veterans such as Drew Eubanks and James Wiseman in getting the 14th roster spot of the defending NBA champions.
-
-In the end, despite the tough situation he is facing, Bruce Brown accepts the challenge of fighting for another chance to play in the NBA.
-
-Brown played 10 minutes in the New York Knicks' 120-97 preseason opener loss against the Philadelphia 76ers on Monday, tallying just two points.
-
-""You got to prove yourself every year. I’ve been on eight teams in nine years. Every year you got to prove yourself, prove you’ve gotten better,"" Brown said. ""But with this team obviously the first and second units are pretty set, I’d say. So obviously I’d have to provide a winning attitude.
-
-""I’m fighting for a job right now. So any role they give me, I’d be happy to do it.""
-
-Source: [https://basketnews.com/news-256849-bruce-brown-drops-crushing-admission-amid-fight-for-knicks-roster-spot.html](https://basketnews.com/news-256849-bruce-brown-drops-crushing-admission-amid-fight-for-knicks-roster-spot.html)",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
 "50 Years of NBA WAR — Day 9: Chicago Bulls Top 50
 
 Continuing the 21-day series of ranking the Top 50 players by WAR for every franchise that has played in all 50 seasons covered by my dataset (1976-77 through 2025-26), coming in at #9 are the Chicago Bulls.
@@ -2304,82 +2269,12 @@ This is something really important that I don’t think is being talked about en
 
 How are West Coasters supposed to engage with this game…Earliest start time for a weekday game not including a holiday game or a bubble game I can find in the modern era!",reaction,pre-labeled
 Why the Spurs run wasn’t legit and Minnesota is the better team,hot_take,pre-labeled
-"Here’s what Ben Simmons had to say about his coach blaming him for that Game 7
-
-“How did I feel? I was like, ‘What a piece of shit.’ When you have a relationship with somebody and they have your back, certain things are supposed to be handled certain ways… When times get tough, people start panicking. People throw people under the bus, and that’s just what happened.”
-
-Five years later and Ben’s still not over Doc questioning whether he could be a championship point guard. The non-dunk already lived in infamy. A few preseason games with the Kings and suddenly Ben’s ego is back in full force",reaction,pre-labeled
 "Could the pelicans be decent this season
 
 The New Orleans Pelicans genuinely have a chance to be a decent team in the 2026–27 NBA season, and it all comes down to health, player development, and their new coaching staff. Although they finished 2025–26 with a disappointing 26–56 record, there's plenty of talent on this roster to suggest they could improve significantly. Zion Williamson has averaged 23.8 points per game over his NBA career, and if he stays healthy alongside Trey Murphy III, the Pelicans have a dangerous scoring duo. Dejounte Murray, who has averaged 17.2 points, 7.0 assists and 6.1 rebounds across his last two injury-affected seasons, could give the team much-needed playmaking and perimeter defense if he returns to full health. Bennedict Mathurin also adds another scoring threat, while young talents Jeremiah Fears and Derik Queen have room to develop into important contributors. Fears even averaged 30 points per game over his final six games of the previous season, albeit in a small sample size. Herb Jones could also help anchor the defense if he stays healthy, and new head coach Jamahl Mosley brings experience developing young players and building competitive defensive teams. The biggest concerns are injuries, inconsistent defense and a lack of proven depth, but if Zion and Murray can stay on the court and the young players take a leap, a run at the Western Conference play-in tournament and a record closer to .500 aren't impossible. The Pelicans probably aren't championship contenders yet, but writing them off completely could be a mistake.",hot_take,"pre-labeled; hard: hot_take vs reaction, chose hot_take because it states a claim"
 "Will Richard with the steal and dunk. Yaxel Lendeborg is unimpressed
 
 [https://m.youtube.com/watch?v=U9CbwZg\_sHo&pp=ygUXd2lsbCByaWNoYXJkIHN0ZWFsIGR1bms%3D](https://m.youtube.com/watch?v=U9CbwZg_sHo&pp=ygUXd2lsbCByaWNoYXJkIHN0ZWFsIGR1bms%3D)",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction because the number is the moment, not an argument"
-"Which 2026 2nd round pick has the best chance of becoming an NBA All-Star in the future?
-
-Here is the list of those who have done it so far:
-
-• Alex English (1976, 23rd overall)
-• Dennis Johnson (1976, 29th overall)
-• Maurice Cheeks (1978, 36th overall)
-• Mark Price (1986, 25th overall)
-• Dennis Rodman (1986, 27th overall)
-• Jeff Hornacek (1986, 46th overall)
-• Dražen Petrović (1986, 60th overall)
-• Toni Kukoč (1990, 29th overall)
-• Antonio Davis (1990, 45th overall)
-• Manu Ginóbili (1999, 57th overall)
-• Michael Redd (2000, 43rd overall)
-• Gilbert Arenas (2001, 31st overall)
-• Carlos Boozer (2002, 35th overall)
-• Kyle Korver (2003, 51st overall)
-• Paul Millsap (2006, 47th overall)
-• Marc Gasol (2007, 48th overall)
-• DeAndre Jordan (2008, 35th overall)
-• Isaiah Thomas (2011, 60th overall)
-• Draymond Green (2012, 35th overall)
-• Khris Middleton (2012, 39th overall)
-• Nikola Jokić (2014, 41st overall)
-• Jalen Brunson (2018, 33rd overall)
-
-~~~~~
-
-....and here is a list of the 2nd rounders who were drafted this past summer:
-
-31. Houston Rockets: Bruce Thornton (G, Ohio State)
-32. Indiana Pacers: Richie Saunders (G, BYU)
-33. Minnesota Timberwolves: Isaiah Evans (G, Duke)
-34. Cleveland Cavaliers: Meleek Thomas (G, Arkansas)
-35. Denver Nuggets: Trevon Brazile (F, Arkansas)
-36. LA Clippers: Baba Miller (F, Cincinnati)
-37. Miami Heat: Ryan Conwell (G, Louisville)
-38. Indiana Pacers: Braden Smith (G, Purdue)
-39. New York Knicks: Jack Kayil (G, Germany)
-40. San Antonio Spurs: Dillon Mitchell (F, San Juan)
-41. Oklahoma City Thunder: Otega Oweh (G, Kentucky)
-42. San Antonio Spurs: Ja'Kobi Gillespie (G, Tennessee)
-43. LA Clippers: Tyler Bilodeau (F, UCLA)
-44. Miami Heat: Maliq Brown (F, Duke)
-45. Houston Rockets: Emanuel Sharp (G, Houston)
-46. Washington Wizards: Felix Okpara (F, Tennessee)
-47. New York Knicks: Tyler Nickel (F, Vanderbilt)
-48. Philadelphia 76ers: Tobi Lawal (F, Virginia Tech)
-49. Denver Nuggets: Bryce Hopkins (F, St. John's)
-50. Toronto Raptors: Jaden Bradley (G, Arizona)
-51. Orlando Magic: Izaiyah Nelson (F, South Florida)
-52. Atlanta Hawks: Henri Veesaar (C, North Carolina)
-53. Detroit Pistons: Ugonna Onyenso (C, Virginia)
-54. Golden State Warriors: Lajae Jones (G, Florida State)
-55. LA Clippers: Nick Martinelli (F, Northwestern)
-56. Dallas Mavericks: Vsevolod Ishchenko (G, Russia)
-57. LA Clippers: Narcisse Ngoy (F, France)
-58. New Orleans Pelicans: Jaron Pierre Jr. (G, SMU)
-59. Minnesota Timberwolves: Trey Kaufman-Renn (F, Purdue)
-60. Milwaukee Bucks: Malique Lewis (F, Trinidad & Tobago)
-
-~~~~~
-
-SO now that you've seen the newbies in Summer League and the Pre-Season, who do you predict will become an all-star one day from the 2026 2nd rounders listed above?",hot_take,pre-labeled
 "Congrats To Bam On Winning NBA ID Fan Favorites Performance Of The Year!
 
 Congrats To Bam On Winning NBA ID Fan Favorites Performance Of The Year! (via @MiamiHEAT) - View now in the NBA App - https://nba.shar.estori.es/go/clip/4113258e-ce0e-53f5-4f94-3a245cb44eed?collectionId=opening-week-fire-moments",reaction,pre-labeled
@@ -2389,11 +2284,6 @@ In my opinion I think that Zion Williamson will have a amazing season compared t
 "Just found out Quincy Acy played for the Mavs tonight
 
 Thought this guy was 45 and long gone, turns out he’s only 36 and hasn’t played in the league in 7 years",reaction,pre-labeled
-"It has been 2 months since Baxter Holmes reported that the NBA had no evidence of Clippers breaking cap circumvention rules. He has not reported on any stories, appeared on ESPN, nor posted on Twitter since that report.
-
-https://espnpressroom.com/bio/baxter-holmes/
-
-He's posted a bit on his personal Instagram but no where else. Ramona Shelburne was MIA for a couple of weeks after the NBA hammer came down but she returned eventually. Don Van Natta defended the article in a statement to Puck News but he's also been MIA since.",hot_take,pre-labeled
 "I really respect KG giving props to generations after
 
 I never got to watch KG play in his prime, but his highlights are so good. I love his trash talk and intensity.
@@ -2408,12 +2298,6 @@ Nikola Jokic is the greatest passer of all time.,hot_take,pre-labeled
 
   
 [https://www.espn.com/nba/game/\_/gameId/401898407/celtics-76ers](https://www.espn.com/nba/game/_/gameId/401898407/celtics-76ers)",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction because the number is the moment, not an argument"
-"Which of these Player+Augment combinations would be the best?
-
-* Anthony Edwards with the hand size of Kawhi Leonard
-* Jalen Brunson but 3 inches taller + wingspan  
-* Tyrese Haliburton with the vertical jump of Zach Lavine 
-* Jaylen Brown with a third eye in the back of his head",hot_take,pre-labeled
 "Ben Simmons tonight: 15 points 8 rebounds 7 assists 5/10 FG
 
 Ben Simmons tonight he looks like he's returning to form 
@@ -2427,25 +2311,6 @@ Ben Simmons tonight he looks like he's returning to form
 5/10 FG
 
 He's back",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction because the number is the moment, not an argument"
-"Title: Which NBA team should I support as someone from Trinidad 🇹🇹?
-
-I’m from Trinidad & Tobago and looking to get into the NBA, but I haven’t picked a team yet.
-
-I want a team with:
-
-🏆 A realistic chance of winning championships
-
-🔥 A passionate fanbase and strong team culture
-
-📈 Good management and a bright future
-
-🏀 An exciting team to watch
-
-👕 Cool jerseys and a good history
-
-I don’t want to just bandwagon the current best team. I want a team I can support for the next 10+ years, through the good and bad.
-
-**If you had to recommend ONE team, who would it be and why? Also, which teams should I avoid? Be honest!**",hot_take,"pre-labeled; hard: hot_take vs reaction, chose hot_take because it states a claim"
 "LeBron James in the loss vs the Celtics | 25 MIN | 8 PTS | 8 REB | 7 AST | 4/9 FG | 0/2 3FG | 0/3 FTs | 4 TOV | 38.8% TS
 
 LeBron James in the loss vs the Celtics | 25 MIN | 8 PTS | 8 REB | 7 AST | 4/9 FG | 0/2 3FG | 0/3 FTs | 4 TOV | 38.8% TS
@@ -2476,15 +2341,6 @@ https://www.espn.com/nba/boxscore/\_/gameId/401898407",reaction,"pre-labeled; ha
 Tell Dundon to keep the a blazers in a Portland. The city loves basketball and thrive on the great energy that is the Blazers. 
 
 https://c.org/d8z7qL6G7W",reaction,pre-labeled
-"What was the best finals of this decade so far?
-
-In the 2010s you had all time finals like 2011, 2013, and 2016.                             
-
-I dont think any of the finals this decade are on those levels.          
-
-However, there have been some good ones like Pacers vs OKC and Bucks vs Suns.             
-
-What is the best in your opnion?",hot_take,pre-labeled
 "Scottie Barnes shows off his two-way game vs the Knicks with 23 pts / 4 ast / 3 reb / 4 blks on 60% shooting and a staggering 80% 3pt
 
 Scottie went off to a hot start swishing his first 4 field goals and continued from there with great defense. But the 3pt shooting was a surprise, hitting 4 for 5.
@@ -2598,7 +2454,6 @@ Kawhi 21/5/0",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction 
 "Referee Accountability
 
 I have a simple suggestion:  Develop an objective measure that is available for to public to access and audit.  Remove contraversy by only having the obviously eggregious calls supported by video count. Make raw data available to the public to enable verification.  Let the public participate in the cost and efforts.  I think there will be many willing volunteers to participate in identifying video evidence that are obviously errors in referee calls.  Then counting those calls and classifying them will make the accounting believable. Many different ways can be discussed, proposed, implemented.  The only important part is it has to be as close to reality data is possible, and it must be available to the audience for audit.",hot_take,pre-labeled
-The Kobe Clause: Estimating the Opportunity Cost of Shooting Volume - PAC,reaction,pre-labeled
 "If Seattle doesn’t get the Sonics back I am starting a league to compete with the NBA where all of the teams are the Seattle Super Sonics
 
 This is what my league would look like…..
@@ -2634,7 +2489,6 @@ San Antonio Seattle Sonics
 Toronto Seattle Sonics  
 Utah Seattle Sonics  
 Washington Seattle Sonics",hot_take,pre-labeled
-Steph Curry's Unique Offensive Impact in Correlation with Spacing,reaction,pre-labeled
 "NBA in Mexico City as someone who actually lives here
 
 The recent news from Silver is something that me and my city would be very excited about. I live in Mexico City and an NBA team here would have a MASSIVE following. The basketball community here is large and growing more everyday. While I entirely want Seattle to have a team, a team in Mexico City would be amazing for the league. 
@@ -2647,7 +2501,6 @@ This diversity would be INCREDIBLE for the league and I think it's quite obvious
 
   
 Growing the game of basketball to Latin America would do wonders for the league as a whole, and will lead to more diverse, accepting, and larger fan base for basketball. And at the end of the day this is the most important thing.",hot_take,pre-labeled
-2026–2027 NBA Preseason Top 10 Scoring Leaders & Total Stats,reaction,pre-labeled
 "With the Knicks' Win Tonight, the Sacramento Kings and the London Lions are the Only Winless Teams in the Preseason
 
 https://www.nba.com/stats/teams/preseason
@@ -2663,7 +2516,6 @@ Off the bench, well, there is Scoot, not much to say there, however, Jrue if he 
 
   
 Blazer fans, what do you think the coaching staff is going to do and what would you personally like to see being done if anything different at all, even if minor tweaks?",hot_take,pre-labeled
-"Nikola Jokic shares his Mount Rushmore of NBA players: Bill Russell, Michael Jordan, Wilt Chamberlain, and Stephen Curry",reaction,pre-labeled
 "Magic Johnson and Steph Curry have some really interesting parallels
 
 Both of them are historically great offensive players and have some ridiculous on-off data purely from what they bring on offense. 
@@ -2679,7 +2531,6 @@ Both of them are so great at those skills that sometimes their tertiary skills g
 “X player is better than Magic or Curry because they only have shooting or passing over them”. Magic and Curry while still well rounded, are so great because of their ridiculous superpowers. 
 
 I’ve seen both Magic and Curry downplayed in player comparisons because people don’t understand how game breaking those skills are. They both make a strong case for the offensive goat because of it!",hot_take,"pre-labeled; hard: hot_take vs reaction, chose hot_take because it states a claim"
-Curry's Unique Offensive Impact in Correlation with Spacing,reaction,pre-labeled
 "With 8 different champions in the past 8 years and the quality of players the NBA has now compared to before. My question is. Do you think the “Face of the league” conversation will be a thing of the past?
 
 The more NBA I watch and within the new CBA rules   
@@ -2740,8 +2591,6 @@ Will be interesting to see if he can break OKC’s rotation and continue playing
 Serious Question - If Steph was 6' 6"" and played defense like Jaden McDaniels, would anyone call him a Point Guard?
 
 Seriously. I hate when people ask who is the best point guard of all time when Steph plays nothing like guys like Magic, CP3 or Jason Kidd. What makes Steph a point guard? Because I feel like it's only because Klay Thompson clearly wasn't either.",hot_take,pre-labeled
-Where will Kawhi Leonard rank all time and how would he be viewed if his teams were reversed,reaction,pre-labeled
-Most Overrated Nba Player(I'll go first),hot_take,pre-labeled
 "Yaxel Lendeborg Per 36 stats in 3 Preseason games: 24.7pts, 15.7reb, 6.2ast, 1.1stl, 1.7blk",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction because the number is the moment, not an argument"
 "SGA is BETTER THAN KOBE
 
@@ -2757,13 +2606,11 @@ career comparisons were used by [https://databallr.com/dashboard/shai-gilgeous-a
 Started off with the position for Shai but the post is designed as an excercise - Not ""I told you so!"" 
 
 Please comment with why Kobe or Shai is the better basketball player and remember, HAVE FUN!",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
-Yao Ming when asked for advice to Yang Hansen: “I’d rather not mislead the current generation; the Center role has completely changed”,reaction,pre-labeled
 "The USA vs World All Star format needs to retire, I want to see Wemby and Ant on the same team.
 
 Seeing players on different even rival teams have to but their differences aside to join forces is one of my favortite things about the All Star game. Wemby and Ant have faced each other in the olympics and the playoffs and it's been electric every time. And last year, their dynamic during the all star game saved the whole weekend.
 
 The drafting format was good, but flawed. Let's just do that, but have the head coaches draft behind the scenes and announce the all-stars and teams together.",hot_take,pre-labeled
-Where will ja morant rank all time/how will others view his career if his teams were reversed,reaction,pre-labeled
 "Wild to think that the Clippers traded Blake Griffin in 2018 and ended up with Keaton Wagler
 
 Source: [https://substack.com/home/post/p-219595980](https://substack.com/home/post/p-219595980)
@@ -2771,17 +2618,14 @@ Source: [https://substack.com/home/post/p-219595980](https://substack.com/home/p
 * Clippers trade Blake Griffin to Detroit in 2018
 * Turned assets from trade to Shai Gilgeous-Alexander, Paul George, James Harden, Ivica Zubac, Norman Powell and Darius Garland
 * Current players and assets acquired from the original trade: Garland, Keaton Wagler, Cam Christie, Patty Mills, Narcisse Ngoy, Kobe Sanders, Yanic Niederhäuser, 2027 2nd Rd pick (from Memphis), 2028 2nd Rd pick (from Detroit)",hot_take,pre-labeled
-The Kobe Clause: Estimating the Oppurtunity Cost of Shooting Value. Introducing Points Above Cost,reaction,pre-labeled
 "Biggest Cinderella Story in NBA? baseball fan here
 
 hello everyone, I have been an NBA fan for about 4-5 years now and it has become the main sport i watch the most. Growing up it was baseball. In baseball there’s so many examples of a whole team that had no right being as good as they were for a whole year that make up these “cinderella runs” outside of teams that are obviously carried by superstars (ie. 2007 Cavs Final Run). My question is what teams throughout history have had a full team of mostly not notable players go crazy for a season or a postseason? Why is it not more common in the NBA?",hot_take,pre-labeled
-Where will lamelo ball rank all time/ how will others view his career if his teams were reversed,reaction,pre-labeled
 "How far back would you need to go until the 2026-27 Brooklyn nets were a title contender?
 
 It is often stated that the league is constantly getting better year over year. With more and more talent coming into the league every year current players are better than their predecessors. Following that logic that means that eventually this years projected worst team would eventually be the best team in the league. My question is how far back would you have to go? 
 
 My gut says the late 70's as that is often seen as a lower point in NBA history, but maybe the development of the game is such that if you played these current brooklyn nets against the 80s celtics and lakers they could beat them. I mean most teams would not be able to comprehend guarding MPJ, a 6'10 guy who can shoot at his volume and efficiency would be unheard of until Dirk.",hot_take,pre-labeled
-"How one rule change could permanently kill boring NBA final seconds and introduce a new caste of basketball superheroes. 🏀🔥 #GalacticBuzzerMan #NBADisclaimer: This concept, including the rules, terminology (""Galactic-Buzzer Man""), and the trophy design, is protected by copyright © 2026 Alexandr_11",reaction,pre-labeled
 "Is this the best team Trae Young has had in his career?
 
 Title. Wondering what others think. I think this roster is the best hands down but I'm biased as fuck.
@@ -2817,16 +2661,12 @@ The NBA isn’t struggling financially like it was back in the early days of the
 You’d not have to split the revenue with private investors who are only into it to make as much money for themselves as possible. Would it not make more sense for the league to retain the teams themselves and then keep revenue to reinvest? Then if someone were to circumvent the salary cap, or commit financial fraud you could just fire the CEO and not penalize the teams or fans directly? 
 
 Genuinely just curious as to why this hasn’t been an option more discussed like say the Green Bay Packers ownership structure or something? I could be missing something but it seems to make the most sense with where the league is at currently! Happy to hear feedback back",hot_take,pre-labeled
-"Newspaper archives uncover that in 1961, a young Elgin Baylor jumped directly over 7’1 Wilt Chamberlain for a poster dunk while Wilt was trying to draw a charge",reaction,pre-labeled
 Failed charges shouldn’t be called posterizers.,hot_take,pre-labeled
 "The Atlanta Hawks edited their own players in a congrats post for the Dream making the WNBA Finals.
 
 I don’t know why I find this hilarious. Let the Dream shine.
 
 https://www.instagram.com/p/DeS9RFvTMlO/?mdxt=MXBqMmN2Z2U1Y2tjdQ%3D%3D",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction because the number is the moment, not an argument"
-"Clip request: few years back the spurs didn't foul and lost the game. They essentially lost track of time and didn't realize until it was too late, and fouled with 1 second left in the game rather than 17
-
-After watching the commanders / giants meltdown over the weekend I cannot help but recall this incident that happened some years ago.  Popp said after the game that the tean forgot how to play basketball.   I think lamarcus Aldridge was playing at that time",hot_take,pre-labeled
 "Crazy that Shaq scored almost 40ppg in the 2000s NBA Finals
 
 Here is his stat line: 
@@ -2856,10 +2696,6 @@ I loved me some sweet lew!!
 Where do you guys rank Rashard Lewis all time in terms of pure stretch 4's?
 
  He was a pioneer and would've thrived now!!",hot_take,pre-labeled
-Saw this going around for football so I tried for NBA,reaction,pre-labeled
-"Players that have been historically underrated by accolades?
-
-Who are some players currently or all time that have been underrated based on accolades? Reggie Miller is one that comes to mind with his ridiculous playoff scoring and his ability to lead elite playoff offenses. He however, only made three all-nba teams in his career.",hot_take,pre-labeled
 "Clippers lowering season memberships for the upcoming season
 
 I just got an email from the clippers saying they're lowering the price of my upcoming season ticket membership. Our price went down about 25%. I can't directly post a screenshot because of the rules of the sub.",reaction,"pre-labeled; hard: hot_take vs reaction, chose reaction because it is shock at the email, not a claim"
@@ -2885,37 +2721,18 @@ Anyone know any good teams that had extreme young talent? I'm not talking about 
 I will keep saying this. This rookie has super high upsides and should be paid more attention to in the upcoming season. De Larrea clearly has a high feel for the game with great court vision and passing ability. He has the potential to be a real threat on the offensive end in the league if he can create his own shots more consistently.
 
 I'm really excited to see what he can develop into. His defense is still a bit suspect to me, but I'm not too worried about it given his size and offensive talent, especially when it comes to passing.",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction because the number is the moment, not an argument"
-"As a celtics hater, how is playoff TP for a nickname for the Tatum PG duo
-
-\- most obviously its a Playoff P reference
-
-\- Also suggests they are going to be toilet paper in the playoffs
-
-\- Lastly and most crucially its a Paul Pierce bathroom incident reference which works well considering they should ""PAUL"" every time he hits a 3
-
-Thoughts/ Suggestions",hot_take,pre-labeled
-CA Skip navigation Create Avatar image BRONNY JAMES is an unmitigated disaster,reaction,pre-labeled
 [Discussion] Reimagining the NBA Endgame: How a 4-Point Beyond-Half-Court Rule Could Permanently Fix Intentional Fouling,hot_take,pre-labeled
-How Jared McCain broke down the benefits to taking the ball out of Shai Gilgeous-Alexander's hands this upcoming season.,reaction,pre-labeled
 "Are the Knicks overrated and just a product of a magical run that will never ever happen again?
 
 Watching the game vs the Wolves & simply not impressed
 
 It’s still preseason but was last year just a huge fluke run?",hot_take,pre-labeled
-Jared McCain breaks down the benefits to taking the ball out of SGA's hands this upcoming season,reaction,pre-labeled
 "James Harden needs to play 1 more year after his contract expires in order to appear in 4 different decades.
 
 Just noticed right now with James Harden's contract. It expires in the 28/29 season. Should he sign a 1 year deal afterwards, he'll make it to the 2030 season which means he'll became another player to play in 4 different decades. He started his career in 2009.
 
 Will he make it to 2030?",hot_take,pre-labeled
 "On October 20th, Godot finally arrives at Madison Square Garden",reaction,pre-labeled
-"Mike Malone in 2016: ""I mean you can talk about some of these very young bigs who are very talented, the kid in New York, Minnesota, Philly, I don’t know any of their names. I know this kid’s name, though. I know Nikola Jokic and I wouldn’t trade him for anybody in the world.""
-
-Source: https://www.cbssports.com/nba/news/nuggets-malone-says-he-wouldnt-trade-nikola-jokic-for-anybody/
-
-Of course, we all know the players he was referring to: Kristaps Porzingis, Karl-Anthony Towns, and... Jahlil Okafor.
-
-Embiid hadn't played a game back then. Rookie Jah avg 17 and 7 when Mike said the quote. I think there were even rumblings within Sixers fans about keeping Jah and Nerlens and selling high on Joel (correct me if I'm wrong)",hot_take,pre-labeled
 "LeBron in the 1st half: 10 pts, 4 rebs, 5 asts, +10.
 
 Attempted 1 shot and made it but also attempted 8 free throws and made all of them.
@@ -2927,34 +2744,18 @@ Embiid gotta shake off that rust or something. 7 turnovers in the 1st half ain�
 
 If Kawhi wins another chip with Raptors and becomes fmvp again is he top 10 all time? I could see him leapfrogging Curry, Bird or Magic coz I'd rank them at the bottom of top10. 3 fmvps weight more than 10 regular season mvps for me, so his lack of a regular season mvp wouldn't be that important. Right now he's easily somewhere around top 15 oat in my book, and most people already rank him in top 20 oat.",hot_take,pre-labeled
 "Spurs to start De’Aaron Fox, Dylan Harper, Stephon Castle, Devin Vassell, and Victor Wembanyama tonight",reaction,pre-labeled
-How old would LeBron have to be to no longer be able to dunk?,hot_take,pre-labeled
-Map Showcasing Where NBA Fans Live in the U.S. and Canada,reaction,pre-labeled
 "Portland Trail Blazers are so good.
 
 I think they are one of the biggest title contenders this year ! Team are full of hungry, talented players..",hot_take,pre-labeled
-Interactive Map Showcasing NBA Fan Locations in U.S. and Canada,reaction,pre-labeled
 "Contract Loophole
 
 NBA teams should add a non-compete agreement buried in their contracts with players. So later when they are traded to another team, they aren’t allowed to play them.",hot_take,pre-labeled
-"SGA After Watching Knicks Beat Spurs and Win 2026 NBA Finals: ""I'm pissed. I can't believe I'm not here right now""
-
-Shai Gilgeous-Alexander is beyond frustrated seeing the New York Knicks celebrating their 2026 NBA championship victory.
-
-Nem Ilic, Gilgeous-Alexander’s trainer, shared the blunt reaction of the two-time NBA MVP to the Knicks’ title run
-
->I don't think it really hit him until New York won Game 5. Literally as the buzzer was about to sound, he texted me and said something like, 'I'm pissed. I can't believe I'm not here right now'
-
-Ilic stated
-
->We were on vacation right around when Games 1 and 2 started. We watched that together. But I didn't get that same vibe until the series was actually over. Then it hit him that they lost and New York won the championship
-
-[https://basketnews.com/news-256914-shai-gilgeous-alexander-true-reaction-to-knicks-winning-nba-title-revealed.html](https://basketnews.com/news-256914-shai-gilgeous-alexander-true-reaction-to-knicks-winning-nba-title-revealed.html)",reaction,pre-labeled
 "James Harden's first preseason game in his first full season with the Cavs: 24 PTS (7-10 FG, 3-5 3P) in 26 minutes.
 
 [https://www.espn.com/nba/boxscore/\_/gameId/401898401](https://www.espn.com/nba/boxscore/_/gameId/401898401)
 
   
-Harden looked sharp, seemed to take more shots in the midrange than usual. Also I think they used his passing in a wider variety of set plays. He caught the ball a lot with his back to the basket tonight.",hot_take,pre-labeled
+Harden looked sharp, seemed to take more shots in the midrange than usual. Also I think they used his passing in a wider variety of set plays. He caught the ball a lot with his back to the basket tonight.",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction because the line is the moment and the comment is how he looked"
 "Aday Mara is shooting 100 FG% for preseason.
 
 5/5 from the field vs New Orleans and 10/10 tonight vs the Bucks. He’s averaging 21.5 minutes per half too. Pretty impressive from the 7’3 Spaniard who had noticeable conditioning issues in Summer League.",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction because the number is the moment, not an argument"
@@ -2965,7 +2766,6 @@ Shai Gilgeous-Alexander at Half against the Bucks | 17 PTS | 2 REB | 5 AST | 5/5
 
 https://www.espn.com/nba/boxscore/\_/gameId/401908620",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction because the number is the moment, not an argument"
 "do you guys think in the 90s and 80s, the players were on PEDs to recover faster and players today don't have that luxury... leading to all these constant injuries in the league.",hot_take,pre-labeled
-Just the other day someone was claiming Kuz a three-level scorer,reaction,pre-labeled
 "These NBA Teams need desperately a Jersey rebrand
 
 These NBA Teams need desperately a Jersey rebrand:
@@ -2982,20 +2782,6 @@ Washington WIZARDS",hot_take,pre-labeled
 "Luka trade to L.A. still feels weird
 
 Like, if we're investigating odd financial dealings behind the scenes, I'd start with the franchise that gave up it's entire future for nothing. I understand it's irrelevant to bring it up so long later but like... Can we agree that something fishy occurred there? Like, this obviously was not a normal trade. Come on, laddies. Be serious.",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction because the number is the moment, not an argument"
-"Julius Erving: “There is no GOAT. There is no one athlete who you can look at in any sport and just say that was the best that ever did it. It's all an opinion.”
-
-THE TRADITIONAL GOAT PARADOX
-
-
-
-\[ Raw Dominance \]  <---- Crucial to Fans? ---->  \[ Career Longevity \]
-
-(e.g., Peak Power)                              (e.g., Accumulation)
-
-│                                                 │
-
-└───► Conflict: What matters more to a legacy? ◄──┘",hot_take,pre-labeled
-who has the best whistle in nba history?,hot_take,pre-labeled
 "Top 5 French Players (2026 - 2027)
 
 **Top 5 French Players**
@@ -3016,11 +2802,6 @@ who has the best whistle in nba history?,hot_take,pre-labeled
 
 **PS: If you don't count Embiid. You can just choose from the honorable mentions.**",hot_take,pre-labeled
 "Out of the 45 total franchises in NBA history, I think the Clippers are easily top 44-45",hot_take,pre-labeled
-"Players with the most bags
-
-I had a convo at work today about the players with the most bags. People laughed at me at first, but that's probably because they'd much rather argue about the GOAT for the millionth time.
-
-Anyway I think Kyries got the most bags, especially since he's a three level scorer with demonic dribbling skills",hot_take,pre-labeled
 "It’s so good to see King James dominating the floor today. 👑Honestly, he should have left LA years ago. He’s saved his legacy",hot_take,"pre-labeled; hard: hot_take vs reaction, chose hot_take because it states a claim"
 "20 Random Hot (or cold) NBA Takes (because why not)
 
@@ -3130,3 +2911,349 @@ They’re still waiting for Dru Smith and Nikola Jović to become even serviceab
 Their front office lives in the past, and they’re clearly so egotistical and egocentric and headstrong . I truly believe they think they’re the reason Jimmy made the Finals and. Yes, they built the rosters, but Jimmy and the Heat still completely overachieved. Jimmy had to use everything in his wheelhouse to get them there. Mami front office has learned nothing. and if Gianns starts asking for help they’re gonna ship hm off out too when he’s 34. 
 
 I don’t like Bam as a second option and he’s supposed to be the second best scorer here. If they end up a play-In or completely out because teams have better talented role players and our generally younger and faster it wouldn’t surprise me.",hot_take,pre-labeled
+"Sga in 3 Preseason games: 51 points 20/24 fg 5/7 3p
+
+With Shooting splits of 83/71 and a whooping 92%ts. The reigning fmvp and MVP looks better than ever. A 50/40/90 season would not surprise me at all. Just like a certain other point guard coming off a ring and mvp did 10 years ago. Looking like another long year for the haters lol",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Bradley Beal in his first preseason game — 12 Points 6/9 FGM in 15 Minutes
+
+Bradley Beal tonight:  
+  
+12 Points  
+6/9 FGM  
+15 Minutes
+
+[Boxscore](https://www.espn.com/nba/boxscore/_/gameId/401812737)",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Victor Wembanyama as the San Antonio Spurs went undefeated in the Preseason: 17 pts (7/9 fg), 13 rebs, 4 blks on 23 mins
+
+This is the first time since 1996 that the Spurs went undefeated (5-0) in the preseason. Their 2nd best player, DeAaron Fox did not play a single preseason game.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Scottie Barnes leads the way with efficient all-around performance against the Nets: 31 points (10/15 FG), 6 rebounds, 4 assists and 3 steals; Barrett chipping in 25 and Quickley with 18 points and 10 assists
+
+Toronto gets a balanced contribution against the Nets tonight.  Starters playing heavy minutes in the final pre-season game.  Scottie Barnes finally wakes up and shows his aggressiveness with 31 points, 6 rebounds and 4 assists.  Barrett with an efficient piece of 25 points and Quickley with a double-double.  
+
+Although Ingram did not carry a huge scoring load tonight, he steps up and hits the dagger to send the Nets home with less than a minute left as the Raptors survive from this thriller.
+
+  
+[https://www.espn.com/nba/boxscore/\_/gameId/401812731](https://www.espn.com/nba/boxscore/_/gameId/401812731)",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"MPJ is a flamethrower against the Raptors: 34 points (12/20 FG), 10 rebounds; Cam Thomas builds bricks for the city of Toronto: 7 points (1/10 FG) as the Nets lost to Raptors in a narrow margin
+
+Both teams playing a lot of starters till the end of the game and MPJ takes the offensive load as he torches the Raptors with 34 points and 10 rebounds.  Unfortunately his teammate Cam Thomas who wants a huge extension is building bricks with 7 points (1/10 FG).
+
+[https://www.espn.com/nba/boxscore/\_/gameId/401812731](https://www.espn.com/nba/boxscore/_/gameId/401812731)",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"VJ Edgecombe in the Sixers last preseason game of 2025: 34 minutes played, 26 points (10-18 FG; 2-6 3FG; 4-4 FT), 6 rebounds, 3 assists, 5 steals, +/- of +13!
+
+VJ Edgecombe looked fantastic tonight, and fulfilled the role of third overall pick as he led the Sixers to a win in their final preseason game before the start of the 2025-26 season. He started tonight, and looks to be a lock to start in Wednesday's opener against the Celtics.
+
+[source for stats](https://www.espn.com/nba/boxscore/_/gameId/401812732)",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Joel Embiid in his first game back since February: 19 minutes played, 14 points (5-10 FG; 2-4 3FG; 2-2 FT), 7 rebounds, 8 assists, 3 steals, +/- of +12!
+
+Fantastic performance for Embiid in limited minutes during the Sixers' last preseason game of 2025. Based on his performance tonight, Embiid looks like he'll be good to go for the Sixers' opening game on Wednesday against the Celtics.
+
+[source for stats](https://www.espn.com/nba/boxscore/_/gameId/401812732)",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"The 76ers new backcourt trio shines in the pre-season game against the Timberwolves: Maxey 27 points, VJ Edgecombe 26 points and Grimes 22 points
+
+Besides Embiid's return, the Sixers have a glimpse of their new backcourt trio rotation of the season (until McCain is back from his injury).  All three of them gets 20 points or above with efficient shooting and all-rounded contributions.  
+
+Maxey scores 27 points (10/17 FG), 4 rebounds, 7 assists and 2 steals
+
+The rooke VJ Edgecombe scores 26 points (10/18 FG), 6 rebounds, 3 assists and 5 steals, showcasing his athleticism and the feel for the game
+
+Grimes continues to prove his ability with 22 points (7/13 FG), 2 rebounds, 5 assists and 3 steals.
+
+  
+[https://www.espn.com/nba/boxscore/\_/gameId/401812732](https://www.espn.com/nba/boxscore/_/gameId/401812732)",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Joel Embiid in his long-awaited return in the pre-season game against the Timberwolves: 14 points (5/10 FG), 7 rebounds, 8 assists and 3 steals
+
+Embiid finally is cleared to make the debut against the Timberwolves and made an impact on both ends of the floor.  He ended up with 14 points, 7 rebounds, 8 assists and 3 steals.  He looked rusty at times but man what a fun to watch if he is healthy and not foul baiting.  The Sixers gets great support from the backcourt trio as well as Maxey, VJ Edgecombe and Grimes all shine in this game against the Timberwolves.
+
+[https://www.espn.com/nba/boxscore/\_/gameId/401812732](https://www.espn.com/nba/boxscore/_/gameId/401812732)",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"insane overnight fall off
+
+of TOPSTREAMS. while mods keep this thread, does anyone know what in the world happened to it? used to be the best option, highest quality no lag. Now its a low quality mess with all over the place UI
+
+is this really the end for us?",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"How long is this week ??? I can’t wait for next season !!!
+
+[removed]",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Gabe Vincent in 5 minutes- 18/0/1 on 5/6 3FG and 3/3 FT
+
+Gabe Vincent in 5 minutes- 18/0/1 on 5/6 3FG and 3/3 FT
+
+Unconscious first five minutes from Gabe ‘Curry’ Vincent",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Gabe Vincent with 18 points first 4 minutes into the Game
+
+[removed]",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"On the day he turned 19, with 5 minutes left and the Pels down 13, Jeremiah Fears led a comeback to tie the game 128-128 with back-to-back and-1’s, a 3pt, a pull-up middy, and another 3pt. Fears finished with 14 points in the last 5 mins, 20/6/4/2 for the game. Rockets win 130-128.
+
+On the day he turned 19, with 5 minutes left and the Pels down 13, Jeremiah Fears led a comeback to tie the game 128-128 with back-to-back and-1’s, a 3pt, a pull-up middy, and another 3pt. Fears finished with 14 points in the last 5 mins, 20/6/4/2 for the game. Fears 30 foot buzzer attempt hits back rim as Rockets win 130-128.
+
+Great debut from one of the youngest players in the league.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Stephen Curry against the Trail Blazers: 28 points (6/15 FG, 12/13 FT), 6 rebounds and 5 assists
+
+Steph plays quite a bit in this pre-season game as he easily scores 28 points and has 13 FT attempts (shocking).  He knocks down 4 threes and has a nice all round game as the Warriors cruises past the Blazers.
+
+Post and Richards both look very legit as they add 16 and 13 points
+
+https://www.espn.com/nba/boxscore/_/gameId/401812720",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Jared Butler against the Los Angeles Lakers in the preseason: 35 PTS 7 REBS 9 ASTS 1 STL 0 TO on 14-26 FG 5-10 3PT 2-6 FT in 34 minutes
+
+Man, what the fuck was this guy on tonight? 
+
+[Score](https://www.espn.com/nba/boxscore/_/gameId/401812721)",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Luka Doncic checks out with 25 points on 7-15 FG, 4-8 3PT, 7-9 FT, 7 rebounds, 4 assists, 5 turnovers, and 3 personal fouls in 22 minutes played.
+
+Source: https://www.espn.com/nba/boxscore/_/gameId/401812721
+
+Luka Doncic checks out with 25 points on 7-15 FG, 4-8 3PT, 7-9 FT, 7 rebounds, 4 assists, 5 turnovers, and 3 personal fouls in 22 minutes played.
+
+Also shoutout Reaves for also dropping 25, albeit in 31 minutes played.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"SGA just showed the levels tonight
+
+[removed]",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Luka’s first-half line in his Lakers preseason debut: 22/6/3 on 6/10 FG
+
+Luka in the first half in his preseason Lakers debut- 22/6/3 on 6/10 FG
+
+https://www.espn.com/nba/game/_/gameId/401812721",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"[Dalzell] I lost to Joe Mazzulla and the Celtics coaches by 53 points — and it was the time of my life
+
+[Source](https://www.celticsblog.com/articles/122754/joe-mazzulla-celtics-coaches-media-game-53-points)
+
+>At the conclusion of Tuesday’s Celtics practice, Joe Mazzulla was asked about a media pickup basketball game that was scheduled for later in the day at the Auerbach Center.
+
+>“I don’t know how to break it to you,” Mazzulla told us reporters. “But you’re not playing against each other — you’re playing against the coaches.”
+
+>And, true to his word, Mazzulla laced up after Celtics practice concluded — alongside six extremely talented assistant coaches — ready for a Celtics Media vs Celtics Coaches full-court basketball game that was sponsored by the Junior Celtics Academy and New Balance.
+
+>Those coaches?
+
+>Former NBA players Phil Pressey and DaSean Butler, as well as four former college basketball stars: Fairmont State University’s God Shammgod Jr., Duke University’s Amile Jefferson, Richmond’s Tony Dobbins, and Bucknell’s DJ MacLeay.
+
+>The final score?
+
+>57-4.
+
+>I think you can guess who came out on top.
+
+...
+
+>It’s hard to even describe what went down in the game. To describe it as a disaster for us reporters would be an understatement. The sheer gap in athleticism — speed, size, instincts, you name it — felt so insurmountable that I can hardly pinpoint what even went down. I’d love to take a look at a box score, but the amount of live-ball turnovers we accrued would probably make me sick.
+
+>What I do know for certain is that the Celtics media conglomerate was so thoroughly outplayed that just getting the ball past halfcourt felt like a victory.
+
+>A rebound (I got one!) felt like a touchdown.
+
+>Hitting the rim on a shot attempt? Practically a cause for celebration.
+
+>It felt like the coaches rarely missed, but special shoutout to player development coach God Shammgod Jr, who was absolutely lights out.
+
+>The game served as an (unneeded) reminder of the ridiculous disparity between us regular people and elite athletes. (Believe it or not, there were multiple former college basketball players among us.)
+
+>And, it was especially humbling to remember that, as massive as the gap was between the coaching staff and the media, the Celtics players themselves are in a whole other stratosphere.
+
+>Team Media scored four points — shoutout to Forbes’ Bobby Krivitisky and Boston.com’s Khari Thompson for finishing their layups — and honestly, if we played that game over 100 times, the final score would round out to about 57-4 every time.
+
+...
+
+>Here we were at the *Auerbach Center*, home of the Boston Celtics. Each and every time I contested a shot or hit the deck diving for a loose ball, I reminded myself where I was and who I was playing against. A couple of times, I picked up Mazzulla himself, just for the hell of it.
+
+>Because why *wouldn’t* you want to guard the Celtics’ head coach?
+
+>I fell in love with the game of basketball when I was 11 years old. I *always* sucked at sports — tennis, volleyball, dodgeball, track, you name it. During gym class, I usually read a book on a mat in the corner, gossiped with friends, or tried to convince my gym teachers to let me go to the library.
+
+>True story, I swear. It wasn’t even because I disliked sports; it’s just no fun being absolutely terrible at anything.
+
+>But everything changed the first day I saw a basketball go through the net. It took everything, and I mean *everything*, to get to the point where I got good enough at one sport that I made the high school basketball team.
+
+>Making the varsity basketball team was the result of hours on hours of three-point attempts every night (shoutout to my dad for the late-night assists), coupled with an obsessive passion for the sport that I truly believe very few people have ever felt.
+
+>My incredibly mediocre high school basketball career remains my most prized accomplishment, no matter what I accomplish in the future. In my senior year, I was on somewhat of a heater for about two months. That stretch of basketball *still* means everything to me, almost a decade later.
+
+...
+
+>I wish I were good enough to play basketball as a job, like the players I cover. I wasn’t even good enough to play in college, a reality that became difficult to reckon with as I neared the end of my senior season (and cried after every game).
+
+>But covering the Celtics and the WNBA is not a bad consolation prize. Every day, I pinch myself on my way to “work” because I still can’t fathom that “work” means watching basketball, talking about basketball, and writing about basketball. I’m confident that the gratitude will never fade.
+
+>Celtics Coaches vs Celtics Media was probably the most lopsided game of basketball I’ll ever partake in.
+
+>It was also the time of my life. I can only hope we do it again.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Cooper Flagg in his Pre-Season matchup vs the Utah Jazz: 11 Points, 7 Rebounds, 2 Blocks, 2 Steals, 1 Assist, and 2 Turnovers on 3-13 shooting and 4/4 FTs
+
+What are your thoughts on this? On one of his off-shooting nights he still looked very efficient and useful on the defensive end.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"#2 overall pick Dylan Harper in the Spurs win against the Pacers for his second NBA game: 11 PTS, 8 AST, 2 STL, 2 TO, 4/8 FG, 1/1 3PG, 2/3 FT, +11 in 22min
+
+2nd overall pick Dylan Harper with a strong performance in his second pre-season game: 11 PTS, 8 AST, 2 STL, 2 TO, 4/8 FG, 1/1 3PG, 2/3 FT, +11 in 22min.
+
+Source: https://www.espn.com/nba/boxscore/_/gameId/401812712",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Victor Wembanyama continues to impress in pre-season as the Spurs defeat the Pacers: 27 PTS, 11 REB, 4 AST, 3 STL, 1 BLK, 7 TO, 9/13 FG, 2/3 3PG, 7/7 FT in 24:32min
+
+The San Antonio Spurs stay undefeated in pre-season as they knock-down the Pacers, thanks to another all-around performance from Victor Wembanyama: 27 PTS, 11 REB, 4 AST, 3 STL, 1 BLK, 7 TO, 9/13 FG, 2/3 3PG, 7/7 FT in 24:32min.
+
+Source: https://www.espn.com/nba/boxscore/_/gameId/401812712",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Ben Mathurin just had a perfect shooting half with 27 points in just 17:43 time
+
+27 PTS
+9/9 FG
+4/4 3PT
+5/5 FT
+
+120.5% True Shooting %.  
+
+Source:  https://watch.nba.com/game/0012500053",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Victor Wembanyama at the half as the Spurs currently lead the Pacers: 19 PTS, 10 REB, 3 AST, 3 STL, 1 BLK 7/8 FG, 2/3 3PG, 3/3 FT, +8 in just 15min
+
+Wemby is filling up the stat-sheet at the half as the Spurs currently lead the Pacers 69-66: 19 PTS, 10 REB, 3 AST, 3 STL, 1 BLK 7/8 FG, 2/3 3PG, 3/3 FT, +8 in just 15min of play.
+
+Source: https://www.espn.com/nba/boxscore/_/gameId/401812712",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Jazz Rookies Combine for 40 Points against Spurs
+
+[https://www.nba.com/jazz/videos/highlights-walter-clayton-jr-and-ace-bailey](https://www.nba.com/jazz/videos/highlights-walter-clayton-jr-and-ace-bailey)
+
+Bailey finished with 20 points (8-13 FG, 2-5 3Pt, 2-2 FT), seven rebounds, one assist and two steals across 39 minutes.
+
+Clayton Jr. finished with 20 points (6-12 FG, 2-7 3Pt, 6-6 FT), five rebounds, five assists, one steal and one block across 34 minutes. 
+
+Bailey is coming off of dynamic outing in Houston and once again produced. Clayton Jr. was quiet against the Rockets but seems to have found his footing this game. Ace was the 5th pick in the draft while the Jazz traded up from the 21st pick to take Clayton Jr. with the Wizards' 18th.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Yang Hansen vs the Kings tonight: 16p/4r/1a with 3 blocks and +9 in 17 minutes
+
+A preseason masterclass from the rookie from China as he helps Portland squeeze out a close win against Sacramento. His shooting splits: 62.5/66.7/100 on 5/8 from the field, 2/3 from three, and 4/4 from the free throw line. He scored 14 points in the third quarter and also showed off some defensive spark with three blocks.
+
+Source: [https://www.nba.com/game/sac-vs-por-0012500017/box-score](https://www.nba.com/game/sac-vs-por-0012500017/box-score)",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Jazz rookies in preseason game 2: Ace Bailey - 20 points, 7 rebounds on 8-13 shooting, Mark Clayton Jr - 20/5/5 on 6/12 shooting
+
+https://www.espn.com/nba/boxscore/_/gameId/401812699
+
+Solid outing for the rookies. Mark Clayton seemed more comfortable on the court. Ace Bailey wasn't as active, but still shot very well with his high release.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Spurs' Summer League find David Jones-Garcia seals the OT win against the Jazz: 20 PTS, 5 REB, 4 AST, 1 STL, 6/13 FG, 8/9 FT in just 17min
+
+Spurs' Summer League find David Jones-Garcia catches fire as the Spurs stay undefeated in pre-seaon following tonight's win against the Jazz: 18 PTS, 5 REB, 4 AST, 6/13 FG, 8/9 FT, in 17min.
+
+Source: https://www.espn.com/nba/boxscore/_/gameId/401812699",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Victor Wembanyama in just 16min against the Jazz: 22 PTS, 7 REB, 3 AST, 1 TO, 6/10 FG, 9/10 FT, +13
+
+Wemby is ramping-up as the Spurs stay undefeated in pre-seaon following tonight's win against the Jazz: 22 PTS, 7 REB, 3 AST, 1 TO, 6/10 FG, 9/10 FT, +13 in 16min.
+
+Source: https://www.espn.com/nba/boxscore/_/gameId/401812699",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"I hate phenomenally good Wemby is.
+
+Wemby is so talented and skilled it’s so unfair to add it with his height. Watching him is a thing of beauty because his game is so graceful, but as a fan of one of one of the 29 other teams other then the Spurs watching him for the next decade will be miserable.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Not seeing Russell Westbrook in the nba is sad I love his commitment to the game and also to his teammates wherever he was playing, I really hope we see him back soon
+
+[removed]",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Victor Wembanyama Struggles in Win vs Heat: 10 PTS | 4 REB | 5 AST | 2 BLK | 5 Turnovers | 4/9 FG | 0/1 3FG | 2/4 FT
+
+Source: https://www.espn.com/nba/boxscore/_/gameId/401812686
+
+Full Stats:
+
+- 10 PTS
+- 4 REB
+- 5 AST
+- 1 STL
+- 2 BLK
+- 4/9 FG
+- 0/1 3FG
+- 2/4 FT",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Kevin Durant in the win against the Jazz: 20 points on 7-10 FG, 1-2 3PT, 5-5 FT, 2 rebounds, 1 assist, 1 steal, 3 turnovers on a +\- of +5 in 23 minutes played.
+
+Source: https://www.espn.com/nba/game/_/gameId/401812687/jazz-rockets
+
+Great game for KD in limited minutes.
+
+The Rockets finally have a true first option and even without FVV, are ready to be serious contenders.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"5th overall pick Ace Bailey tonight against the Houston Rockets: 25 pts (11/16 FGM), 6 REB, 3 AST, 2 STL, 1 BLK
+
+A great showing for the guard-forward tonight, who started in place of Lauri Markkanen. His midrange game looks great and he played great on both ends of the court.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"[NBA] Cooper Flagg in his 1st half of preseason action: 10 PTS 6 REB 3 AST 1 BLK
+
+Cooper Flagg in his 1st half of preseason action:
+
+10 PTS
+6 REB
+3 AST
+1 BLK
+
+Source:
+
+https://bsky.app/profile/nba.com/post/3m2l2ss6bqc2w
+
+I am mildly surprised  at how comfortable he has looked so far. He doesn't really look like a green rookie. Dallas may have gotten really lucky in the fallout of the much criticized luka doncic trade. It is going to be an interesting season for sure.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Bronny James in the loss to the Warriors: 5 points on 2-6 FG, 1-3 3PT, 3 rebounds, 3 assists, 1 steal, 1 block, 5 turnovers, 4 personal fouls on a +\- of +1 in 23 minutes played.
+
+Source: https://www.espn.com.au/nba/boxscore/_/gameId/401812677
+
+Lakers lose 111-103 to the Warriors on the road in San Francisco.
+
+Bronny had occasional flashes, but the stats look concerning.
+
+It’s worrying that he hasn’t appeared to develop particularly well after his rookie season, although it has only been two preseason games, and he was alright in summer league earlier this year.
+
+Will be interesting to see what Bronny’s development is like this season.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Kon Knueppel in his first NBA pre season game: 18 PTS 2 REB 2 AST on 46/40/100
+
+Not bad splits after a bad shooting first quarter. Despite everything falling apart around him I liked what I saw out of the game today despite missing a few rotations on defense. 0 turnovers and only 1 foul too.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Ricky Rubio back in action in the Spanish League, for his teenage club Joventut Badalona. First game of the year : 18 points, 3 rebounds, 4 assists
+
+[Video](https://www.youtube.com/watch?v=2V_piJ_Mn34)
+
+Ricky Rubio (34) returned to Spain’s Liga ACB with his original club, Badalona, having last played in spring 2024 for Barcelona. In his first game back, he scored 18 points (including 9/9 free throws), grabbed 3 rebounds and dished 4 assists, helping Badalona beat Granada 87–75.
+
+Rubio said his return isn’t just about playing, but about helping the club grow. He has previously shared publicly that during his break, he battled depression and even had suicidal thoughts.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Deandre Ayton ends his night with 1 PTS, 8 REB, 1 BLK, 0 FTA (18 MIN) | Suns Rookie Khaman Maluach had 4 PTS, 6 REB, 0 BLK, 2 FTA (10 MIN, off the bench)
+
+Ayton’s night was mostly rebounds with 1 point in 18 minutes with no trips to the line. Meanwhile, Maluach came off the bench and, in just 10 minutes, matched the energy with 4 points, 6 boards, and drew 2 fouls. Short sample, but Maluach made his presence felt while Ayton quietly held down the glass.
+
+[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401812482)",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Bronny James in the loss against the Suns: 8 points on 1-12 FG, 1-8 3PT, 5-6 FT, 5 rebounds, 2 assists, 2 turnovers on a +\- of -12 in 24 minutes played.
+
+Source: https://www.espn.com.au/nba/game/_/gameId/401812482
+
+Rough game for Bronny as the Lakers get blown out by the Suns, 103-81.
+
+At least he made his free throws at an efficient rate.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Devin Booker checks out of the first pre-season game against the Lakers with 24 points (8/19FG) and 7 assists; Allen and Brooks chipping in 13 and 10 points respectively
+
+In a blowout game against the Lakers, the Suns has a great start in a new era as Devin Booker fully took up the role as the engine and scores 24 points with 7 assists.
+
+Grayson Allen steps up with 13 points and 3 three-pointer as he plays off Booker's gravity well. Brooks add 10 with good defense in his debut
+
+https://www.espn.com/nba/boxscore/_/gameId/401812482",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Zion Williamson in the win against the Australian National Basketball League’s (NBL) Melbourne United:  15 points, 2 rebounds, 5 assists, 2 steals, 2 turnovers, 2 personal fouls on a +\- of +10 in 15 minutes.
+
+Source: https://www.espn.com.au/nba/boxscore/_/gameId/401812481
+
+Pels won 107-97 on the road in Melbourne, Victoria, Australia.
+
+Impressive game fron Zion, after a video showing his new encouraging physique, in such limited minutes, even if it’s against an Australian team.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Who else is stoked about that NBA regular season games are right around the corner?!
+
+[removed]",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Isaiah Thomas Never Stops Trying lol
+
+[removed]",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Zion turned into a MF BEAST!!!!
+
+[removed]",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Rodney Rogers 9 points in 8 seconds against the Jazz
+
+[9 points. 8 Seconds ](https://www.youtube.com/watch?v=HaXirQuRBuM)
+
+Sometimes people forget this guy and this amazing moment. Zion before Zion.",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"Grant Williams just pledged $1.5M to Tennessee! What a legend.
+
+​Just saw some amazing news about Grant Williams. He's pledging a massive $1.5 million back to the University of Tennessee, which is just incredible. 
+
+He's spreading the love, too, with some of the money going to the Men’s Basketball Excellence Fund and the softball program, and another big chunk setting up a scholarship endowment for the business school. 
+
+It's awesome to see a former student-athlete give back in such a big way. He's calling Tennessee his ""home,"" and this really shows how much he means it. Love to see it.
+
+Source:
+https://sportsorca.com/nba/grant-williams-pledges-1-5m-to-tennessee-athletics/",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+I love LeBron so much sigh,reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
+"[Post Game Thread] Germany takes down Finland 96-86 to make it to the finals in EuroBasket behind Dennis Schroder’s 26 points, 12 assists and 5 rebounds
+
+Finland's Cinderella run isn't over yet as they will now battle for the bronze medal against the loser of Greece vs Turkiye today.
+
+Germany takes down Finland 96-86 to make it to the finals in EuroBasket behind Dennis Schroder’s 26 points, 12 assists and 5 rebounds
+
+Box score: https://www.fiba.basketball/en/events/fiba-eurobasket-2025/games/123030-GER-FIN#boxscore",reaction,"pre-labeled; stretch: extra reaction, the thinnest label"
