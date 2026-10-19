@@ -87,18 +87,18 @@ TakeMeter sorts self-posts from r/nba, the public Reddit community for NBA discu
 
 **Where the posts came from:** Public self-posts on r/nba, collected from the Arctic Shift Reddit archive (search API, subreddit `nba`, self-posts only). Game threads, highlight links, and reporter-tagged news posts were left out. Whole posts are in the file, not trimmed excerpts.
 
-**How I labelled them:** No row is a cold label. An assistant applied the definitions and the decision rule above to the collected posts, then the title of every kept row was read and corrected: news copy, polls, quotes with no poster argument, spam, and near-duplicate titles were removed, and posts on the boundaries were moved to the label the rule names. Every note says `pre-labeled`. Before the next unit I need to label 20 of these myself, with no tool, and mark those notes `cold`. The agreement report depends on that.
+**How I labelled them:** No row is a cold label. An assistant applied the definitions and the decision rule, then every kept title was read. News copy, polls, quote dumps, title-only links, spam, and near-duplicates were removed. Six posts that broke the decision rule were moved: a prediction with no cited stat is `hot_take` even if it mentions a number it hopes for, and a box score the poster does not argue from is `reaction`. A second pass added 50 more `reaction` posts, the thinnest label, each one a box score or a feeling about a moment. Notes on those rows say `stretch: extra reaction`. Every note says `pre-labeled`. Before the next unit I need to label 20 of these myself, with no tool, and mark those notes `cold`. The agreement report depends on that.
 
 **Counts per label:**
 
 | Label | Count | Share |
 |---|---|---|
-| analysis | 77 | 37.2% |
-| hot_take | 72 | 34.8% |
-| reaction | 58 | 28.0% |
-| **Total** | **207** | 100% |
+| analysis | 67 | 30.9% |
+| hot_take | 61 | 28.1% |
+| reaction | 89 | 41.0% |
+| **Total** | **217** | 100% |
 
-No label is above 45%, which is also acceptance criterion 3. `reaction` is the thin class. About 15% of 58 is 8 or 9 test posts, right on the line where a score gets jumpy.
+No label is above 45%, which is also acceptance criterion 3. `reaction` was the thin class at 58, so the stretch added 50 more. It is now the largest class, at 41%, still under the cap.
 
 **Three hard cases**
 
@@ -133,11 +133,15 @@ A fourth case changed a label during the review. "SGA is BETTER THAN KOBE" reads
 
 **Settings:** 3 epochs, learning rate 2e-5, batch size 16, 128 tokens, seed 42. These are the notebook defaults.
 
-**Anything I changed from the defaults, and why:** Nothing. The labels are the part that was in doubt, not the hyperparameters.
+**Anything I changed from the defaults, and why:** Nothing in the run that `results.json` records. The notebook settings stay at 3 epochs, learning rate 2e-5, batch size 16, 128 tokens, seed 42.
+
+**Stretch — a second run.** One hyperparameter changed: epochs from 3 to 5. Same data, same seed, same learning rate, same batch size, same 128 tokens. On the first training pass the loss was still falling at the end of epoch 3, so the model had not finished fitting. That second run is `results_epochs5.json`. `results.json` and `test_split.csv` stay the default run, which is the one the next unit should score.
+
+**What moved:** On the same held-out posts, accuracy went from 0.636 to 0.667 and macro F1 from 0.579 to 0.637. `hot_take` F1 went from 0.500 to 0.667 and `reaction` from 0.737 to 0.800. `analysis` F1 went from 0.500 to 0.444. Two more epochs helped the labels the model was already willing to call, and they cost a little on analysis. The targets in `criteria.md` were not changed.
 
 **Device:** cpu. `results.json` records `"device": "cpu"`, `"device_name": "CPU"`, and `"torch_version": "2.14.1+cpu"`. Two runs of this same file on different hardware can land on different numbers, because the arithmetic is not in the same order. That belongs next to the three seeds in the next unit.
 
-**Split sizes:** Seed 42, 70/15/15. Train 144, validation 31, test 32. In the test split: analysis 12, hot_take 11, reaction 9. Every label has at least 8 test posts. `reaction` is the smallest, so its F1 will move the most between seeds.
+**Split sizes:** Seed 42, 70/15/15. Train 151, validation 33, test 33. In the test split: analysis 10, hot_take 9, reaction 14. `hot_take` is the smallest test slice, at 9 posts, so its F1 will move the most between seeds.
 
 ---
 
