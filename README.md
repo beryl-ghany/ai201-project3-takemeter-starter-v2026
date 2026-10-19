@@ -87,7 +87,7 @@ TakeMeter sorts self-posts from r/nba, the public Reddit community for NBA discu
 
 **Where the posts came from:** Public self-posts on r/nba, collected from the Arctic Shift Reddit archive (search API, subreddit `nba`, self-posts only). Game threads, highlight links, and reporter-tagged news posts were left out. Whole posts are in the file, not trimmed excerpts.
 
-**How I labelled them:** No row is a cold label. An assistant applied the definitions and the decision rule, then every kept title was read. News copy, polls, quote dumps, title-only links, spam, and near-duplicates were removed. Six posts that broke the decision rule were moved: a prediction with no cited stat is `hot_take` even if it mentions a number it hopes for, and a box score the poster does not argue from is `reaction`. A second pass added 50 more `reaction` posts, the thinnest label, each one a box score or a feeling about a moment. Notes on those rows say `stretch: extra reaction`. Every note says `pre-labeled`. Before the next unit I need to label 20 of these myself, with no tool, and mark those notes `cold`. The agreement report depends on that.
+**How I labelled them:** An assistant applied the definitions and the decision rule, then every kept title was read. News copy, polls, quote dumps, title-only links, spam, and near-duplicates were removed. Six posts that broke the decision rule were moved: a prediction with no cited stat is `hot_take` even if it mentions a number it hopes for, and a box score the poster does not argue from is `reaction`. A second pass added 50 more `reaction` posts, the thinnest label, each one a box score or a feeling about a moment. Notes on those rows say `stretch: extra reaction`. Twenty rows are `cold`: posts 1–5 and 7–21, labeled by hand. The rest say `pre-labeled`.
 
 **Counts per label:**
 
@@ -159,7 +159,7 @@ A fourth case changed a label during the review. "SGA is BETTER THAN KOBE" reads
 - *What came back:* Criterion 3 (the 45% cap) can be satisfied by how the file is built, so it is the easy one. Criterion 2 (every label at 0.50 F1) is the hard one, because `reaction` will have about 8 test posts and unit 6 requires the target on all three seeds.
 - *What I changed:* Nothing about the numbers. 0.60 accuracy, 0.50 F1, 45% balance, 0.70 agreement, and 0.70 accuracy on the confident slice all stayed. They were written before the training run.
 
-**Pre-labelling disclosure:** Every row in `labels.csv` was pre-labeled. A script applied the definitions and the decision rule, then every kept title was read and corrected as described in The Dataset. Notes say `pre-labeled`. None say `cold`. The five criteria were drafted with that same assistant, before any training metric existed, and the targets above are the ones to grade against. They should be re-read before they are defended out loud.
+**Pre-labelling disclosure:** Twenty rows, posts 1–5 and 7–21, are marked `cold`. Those labels were chosen by hand. Every other row was pre-labeled: a script applied the definitions and the decision rule, then every kept title was read and corrected as described in The Dataset. The five criteria were drafted with that same assistant, before any training metric existed, and the targets above are the ones to grade against. They should be re-read before they are defended out loud.
 
 <!-- ═══════════════════════ UNIT 6 — THE TEST ═══════════════════════
 

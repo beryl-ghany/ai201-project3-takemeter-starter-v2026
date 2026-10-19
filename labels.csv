@@ -15,7 +15,7 @@ When you compare that historical context to how the Minnesota Timberwolves have 
 
 The reality is that sports history favors the victor, so we ignore how lucky those Spurs teams actually got. Minnesota, on the other hand, is constructing a team specifically designed to dominate the physical, high-octane modern era. 
 
-Why does the general consensus refuse to see the flaws in those legacy Spurs runs, and what exactly does Minnesota need to execute over the next few months to finally prove their blueprint is superior?",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+Why does the general consensus refuse to see the flaws in those legacy Spurs runs, and what exactly does Minnesota need to execute over the next few months to finally prove their blueprint is superior?",analysis,cold
 "[OC] People debate over the bar for making the Hall of Fame for players, but nobody does for coaches. I've analyzed all 22 coaches in the HoF for their NBA careers to set the bar, find the biggest snubs (it's K.C. Jones and it's a joke he's not in), and determine which coaches are on their way.
 
 People debate all the time about what they think the bar is for a player to make the Basketball Hall of Fame, and whether it is supposedly too low. I have my own bar of where I think the Hall of Fame typically goes in the modern day, but that's not what this is about. That topic has been done to death. I want to talk about the bar for coaches to make the Basketball Hall of Fame. A bar that is seemingly way more mysterious, way less talked about, and has way worse snubs than anything involving players. But that rant about K.C. Jones not being in the Hall of Fame as a coach will come later.
@@ -461,7 +461,7 @@ Winning two championships as a head coach makes you a virtual lock for the Hall 
 
 * Billy Cunningham - Head Coach of the 1983 Philadelphia 76ers
 
-* Kevin Loughery - Head Coach of the 1974 and 1976 New York Nets",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+* Kevin Loughery - Head Coach of the 1974 and 1976 New York Nets",analysis,cold
 "50 Years of NBA WAR — Day 20: Brooklyn Nets Top 50
 
 Continuing the 21-day series of ranking the Top 50 players by WAR for every franchise that has played in all 50 seasons covered by my dataset (1976-77 through 2025-26), today we're covering the Brooklyn Nets, who rank #20 in franchise WAR.
@@ -530,17 +530,17 @@ Here's the Brooklyn Nets Top 50:
 | 48 | Mookie Blaylock | 3 | 6.9 | 0.2 | **7.1** |
 | 49 | Gerald Wallace | 2 | 6.2 | 0.7 | **6.9** |
 | 49 | Bruce Brown | 2 | 6.6 | 0.3 | **6.9** |
-| 49 | Albert King | 6 | 6.4 | 0.5 | **6.9** |",analysis,pre-labeled
+| 49 | Albert King | 6 | 6.4 | 0.5 | **6.9** |",analysis,cold
 "Ben Simmons good again?
 
-I believe that this season could be a comeback season for Ben Simmons obviously not a 20 PPG season but a season where he is at least averaging more then 6ppg I think this because it's a small sample size but for his standard he showed out In the preseason for the limited playing time that he got but he was doing stuff that he hasn't done in years like shooting mid ranges and looking confident and he is also showing off his playmaking ability so if he is able to remain decently healthy and stay consistent if not a starting 5 player he will definitely be a decent role player",hot_take,"pre-labeled; hard: analysis vs hot_take, chose hot_take because 6ppg is the prediction, not evidence"
+I believe that this season could be a comeback season for Ben Simmons obviously not a 20 PPG season but a season where he is at least averaging more then 6ppg I think this because it's a small sample size but for his standard he showed out In the preseason for the limited playing time that he got but he was doing stuff that he hasn't done in years like shooting mid ranges and looking confident and he is also showing off his playmaking ability so if he is able to remain decently healthy and stay consistent if not a starting 5 player he will definitely be a decent role player",hot_take,cold
 "I think high on-ball reps and playing time for young players are a touch overrated, not very overrated, just a little overrated.
 
 Every rebuilding fanbase seems to have the same knee jerk demand to trade everybody above the age of twenty four to throw the young guys straight into the fire for eighty two games in the hopes of supercharging their development, this can work under the right organization, team culture, and temperament of the players themselves, but generally you still need good veteran talent playing ahead of your projects, whether for leadership, injury risk mitigation, or for a general level of competence and experience that someone who just got drafted likely won't have.
 
 Or if that player *is* talented, but gets the full responsibility for the team's future foisted on them and them alone with some hope of a second star that doesn't materialize or turns out to be fairly disappointing, a one eyed man ruling over a kingdom of the blind, so much pressure to be great that it gets to them or so much failure that pressure stops being a thing.
 
-The Zach Lavine Bulls, the Timberwolves for years after KG, the 2000s LA Clippers until they got Sam Cassell, the current Pelicans, the Knicks post-Melo and before they got Randle, the 20s Pistons for a good 40% of this decade until they finally got good, the current Jazz, the Booker Suns until they got their shit together and put together the 2020 team that eventually lead to Chris Paul, there's a lot of examples throughout history of young players being told to go out and hoop without any real guidance, and the vicious cycle only ends when the team begins making moves to acquire winning players, and when that happens, growth from the younger talent becomes evident and the franchise can move forward into contention, or the expectation of a playoff run ever year.",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+The Zach Lavine Bulls, the Timberwolves for years after KG, the 2000s LA Clippers until they got Sam Cassell, the current Pelicans, the Knicks post-Melo and before they got Randle, the 20s Pistons for a good 40% of this decade until they finally got good, the current Jazz, the Booker Suns until they got their shit together and put together the 2020 team that eventually lead to Chris Paul, there's a lot of examples throughout history of young players being told to go out and hoop without any real guidance, and the vicious cycle only ends when the team begins making moves to acquire winning players, and when that happens, growth from the younger talent becomes evident and the franchise can move forward into contention, or the expectation of a playoff run ever year.",analysis,cold
 "Peak Steph and KG may be the most impactful hypothetical duo ever
 
 Probably going to get pushback for this but if I had to pick one duo that would win by the biggest margin in their minutes together and be the most impactful it would be this one.
@@ -562,10 +562,10 @@ Magic make a big splash acquiring future Hall of Famer Tracy McGrady in a sign-a
 
 McGrady → Mobley/Francis → Trevor Ariza → Rafer Alston → Vince Carter → Earl Clark → Nikola Vucevic+ (Dwight Howard trade) → 2021 1st Rd pick → Magic select Franz Wagner 
 
-The most heartbeaking part of this chain was trading away the pick that would eventually become Tyrese Maxey. 😩",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+The most heartbeaking part of this chain was trading away the pick that would eventually become Tyrese Maxey. 😩",analysis,cold
 "Crazy but true: Out of all the players drafted in the first round in 2022 only 17 are still in the league.
 
-After Ochai Agbaji, Jeremy Sochan, Malaki Branham, Blake Wesley and Dalen Terry were waived the last couple days, there are only 17 players from that years first round still on an NBA roster. For comparison, the 2018 draft class still has 20 active players.",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+After Ochai Agbaji, Jeremy Sochan, Malaki Branham, Blake Wesley and Dalen Terry were waived the last couple days, there are only 17 players from that years first round still on an NBA roster. For comparison, the 2018 draft class still has 20 active players.",analysis,cold
 "Pacers will be #1 overall seed in NBA.
 
 There’s a large group of people who believe that the Pacers run to the NBA Finals in 2025 Game 7 (which they led at half) was in large part a fluke.
@@ -590,7 +590,7 @@ For a team to back a conference Finals, make a Game 7 NBA Finals, lose in the mo
 
 My bet is that they go back to the Finals, as the number 1 overall seed, and win in 4 or 5 games — hopefully against the team they would have beaten before.
 
-Expect a Haliburton MVP campaign.",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+Expect a Haliburton MVP campaign.",analysis,cold
 "The 2019 draft class is now 7 years in the past. Only 4 players have made an all star team. Zion was #1 followed by Ja at #2. If you are a team who needs 2 steady players to be a solid 4th or 5th starter or a top 6th man then what 2 players from the top 13 would you pick?
 
 It’s tough to pick but to be safe on my investment I’d probably go with Garland and Barrett although I hate Garland’s D. These 2 still seem to have some upside going into their prime. Scared of Ja & Zion although a lot of teams would take fliers on these guys at the right cost. Coby, Rui, PJ and Cam Johnson are all similar safe picks also I believe.
@@ -630,7 +630,7 @@ Solid 3 & D player. Last year 12.2 per game on splits of 48 / 43 / 84
 Solid starter or 6th man. 3 and D type player although 3 ball can be shaky. 14.2 pts / game 
 
 **13-Tyler Herro**   
-1 time all star with an excellent offensive game and 3 ball but an absolute negative on the defensive side",analysis,pre-labeled
+1 time all star with an excellent offensive game and 3 ball but an absolute negative on the defensive side",analysis,cold
 "50 Years of NBA WAR — Day 19: Los Angeles Clippers Top 50
 
 Continuing the 21-day series of ranking the Top 50 players by WAR for every franchise that has played in all 50 seasons covered by my dataset (1976-77 through 2025-26), today we're covering the Los Angeles Clippers, who rank #19 in franchise WAR.
@@ -699,19 +699,19 @@ Here's the Los Angeles Clippers Top 50:
 | 48 | Bobby Simmons | 3 | 7.8 | -0.1 | **7.7** |
 | 49 | James Donaldson | 3 | 7.4 | 0.0 | **7.4** |
 | 50 | Kris Dunn | 2 | 7.2 | 0.1 | **7.3** |
-| 50 | Danilo Gallinari | 2 | 7.5 | -0.2 | **7.3** |",analysis,pre-labeled
+| 50 | Danilo Gallinari | 2 | 7.5 | -0.2 | **7.3** |",analysis,cold
 "The Hawks just had a great pre-season; over 5 games they were +56 FGA, +58 3PA, +28 OREBS, +12 STLS, +24 TOV.
 
 All of the most important possession stats this team did really good. I think they are the biggest surprise to me this off-season so far.  If I was a Hawks fan I would be thrilled by this. 
 
-[https://possessionbattle.com/?team=atl#/](https://possessionbattle.com/?team=atl#/)",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+[https://possessionbattle.com/?team=atl#/](https://possessionbattle.com/?team=atl#/)",analysis,cold
 "Lebron James Jr's preseason stats: 2.2 PPG, 2.8 APG, 2.4 RPG, 0.2 STL, 2.6 TOV on 25/12/100 shooting splits
 
 Source: the nba dot com site for Lebron James Jr 
 
 He actually had more personal fouls and turnovers than points scored this preseason lol
 
-How are we feeling about Lebron James Jr's outlook at the nba level? Despite having access to coaching from arguably a top 5 basketball player ever for his entire life, he still looks pretty putrid as he's about to enter his 3rd year in the league. How much longer does he have in the league? Which country do y'all think he gonna be playing in soon?",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+How are we feeling about Lebron James Jr's outlook at the nba level? Despite having access to coaching from arguably a top 5 basketball player ever for his entire life, he still looks pretty putrid as he's about to enter his 3rd year in the league. How much longer does he have in the league? Which country do y'all think he gonna be playing in soon?",analysis,cold
 "Tyrese Haliburton's Preseason Averages: 18MPG; 16PPG on 53/53 splits; 5APG, 2RPG, 2 STOCK, 2 TOV
 
 **And compared to Siakam & Zubac:**
@@ -724,26 +724,26 @@ How are we feeling about Lebron James Jr's outlook at the nba level? Despite hav
 
 Not a bad pre-season if I'd say so myself.
 
-Sources: [1](https://www.nba.com/game/min-vs-ind-0012600029/box-score), [2](https://www.nba.com/game/atl-vs-ind-0012600006/box-score), [3](https://www.nba.com/game/ind-vs-okc-0012600047/box-score), [4](https://www.nba.com/game/mil-vs-ind-0012600057/box-score)",analysis,pre-labeled
+Sources: [1](https://www.nba.com/game/min-vs-ind-0012600029/box-score), [2](https://www.nba.com/game/atl-vs-ind-0012600006/box-score), [3](https://www.nba.com/game/ind-vs-okc-0012600047/box-score), [4](https://www.nba.com/game/mil-vs-ind-0012600057/box-score)",analysis,cold
 "Klay “Klank” Thompson preseason shooting stats: 7/26 FG, 3/20 3FG, 0/0 FT
 
-Is it safe to say to that Klay Thompson is just having a cold start or should the Heat lower their expectations on Klay Thompson shooting this season? Although he did performed good on defense on some possessions I’ve seen. What’s your thoughts?",reaction,"pre-labeled; hard: reaction vs analysis, chose reaction because the line is the moment and the poster does not take a side"
+Is it safe to say to that Klay Thompson is just having a cold start or should the Heat lower their expectations on Klay Thompson shooting this season? Although he did performed good on defense on some possessions I’ve seen. What’s your thoughts?",reaction,cold
 "Naz Reid, centerpiece of Lamelo Ball trade, preseason stats: 10 ppg on 40/29/88 with 3 rebounds and 1 assist per game as well. He is owed 100+ million over the next 4 years
 
 Naz Reid was a highly coveted acquisition by Jeff Peterson, who traded Lamelo Ball, the only PG on the Hornets, to get. Reid is a former backup center for a Timberwolves team who loved him for being a meme player that could do unusual things. Now that he is a starter playing completely out of position, more scrutiny is needed. 
 
   
-If this is what can be expected from Reid going forward, it is one of the worst contracts in the league",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+If this is what can be expected from Reid going forward, it is one of the worst contracts in the league",analysis,cold
 "Been seeing a lot of scrutiny against Ja Morant and how he doesn’t take responsibility
 
-most people get it wrong that Ja Morant ”punched” a kid, first of all he was 17 pushing 18 and then theres a reason the case got dropped, there’s literally no evidence against it not to mention the same kid got arrested a couple of months back. Then there’s gun incident, are we serious? He didn’t go shoot u anything, he was just drunk in a club and had a gun on him. Now I’ll admit he kind of has a bad temper especially on the court, specifically when he doesn’t get foul calls or misses a shot but the 2 main points people hold against him are REALLY big over exaggrrations. Also he didn’t grow up “rich” he grew up in lower middle class in a pretty bad area of South Carolina.",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+most people get it wrong that Ja Morant ”punched” a kid, first of all he was 17 pushing 18 and then theres a reason the case got dropped, there’s literally no evidence against it not to mention the same kid got arrested a couple of months back. Then there’s gun incident, are we serious? He didn’t go shoot u anything, he was just drunk in a club and had a gun on him. Now I’ll admit he kind of has a bad temper especially on the court, specifically when he doesn’t get foul calls or misses a shot but the 2 main points people hold against him are REALLY big over exaggrrations. Also he didn’t grow up “rich” he grew up in lower middle class in a pretty bad area of South Carolina.",analysis,cold
 "Giannis Antetokounmpo could become the first NBA player since Gene Conley to win both an NBA championship and a World Series.
 
 With the Milwaukee Brewers being in the World Series and Giannis Antetokounmpo being an minority owner (buying a share in 2021), he could win another title in a different Big 4 league as an active NBA player.
 
 Gene Conley was the last player to win championships in both the NBA and MLB. He won a World Series title with the Milwaukee Braves in 1957 and an NBA championship with the Boston Celtics in 1959-1961, both as a player (Danny Ainge and and Michael both Jordan played in the MLB and NBA too).
 
-If the Brewers win the World Series, it would put him in the conversation to achieve one of the rarest accomplishments in American sports. LeBron is a minority owner in the Pittsburgh Penguins and Boston Red Sox, but neither have won titles in his tenure.",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+If the Brewers win the World Series, it would put him in the conversation to achieve one of the rarest accomplishments in American sports. LeBron is a minority owner in the Pittsburgh Penguins and Boston Red Sox, but neither have won titles in his tenure.",analysis,cold
 "50 Years of NBA WAR — Day 18: Sacramento Kings Top 50
 
 Continuing the 21-day series of ranking the Top 50 players by WAR for every franchise that has played in all 50 seasons covered by my dataset (1976-77 through 2025-26), coming in at #18 are the Sacramento Kings.
@@ -814,12 +814,12 @@ Here's the Sacramento Kings Top 50:
 | 48 | Marcus Thornton | 4 | 8.2 | 0.0 | **8.2** |
 | 49 | Kevin Huerter | 3 | 8.3 | -0.1 | **8.2** |
 | 50 | Tyrese Haliburton | 2 | 8.0 | 0.0 | **8.0** |
-| 50 | Harold Pressley | 4 | 8.0 | 0.0 | **8.0** |",analysis,pre-labeled
+| 50 | Harold Pressley | 4 | 8.0 | 0.0 | **8.0** |",analysis,cold
 "Mavericks are averaging the most three-point attempts in the league during pre-season, with 46.7 attempts per game. Only shooting at a 30% clip.
 
 The mavericks this year under Dusty may have shown a willingness to put up as many threes as they can. Last year the mavericks didn’t shoot many threes and weren’t good at them. This year they will definitely look to shoot much more threes. They do have some very good shooters in Kyrie, Christie, Tarik, Poulakidas. Then Santi, zacch and Sasser.
 
-https://www.nba.com/stats/teams/preseason?Season=2026-27&dir=D&sort=FG3A",analysis,pre-labeled
+https://www.nba.com/stats/teams/preseason?Season=2026-27&dir=D&sort=FG3A",analysis,cold
 "Michael Jordan vs. LeBron James: The ""Active All-Star Teammate""
 
 |**Michael Jordan's All-Star Teammates**|**Seasons Selected Together**|**LeBron James's All-Star Teammates**|**Seasons Selected Together**|
@@ -831,7 +831,7 @@ https://www.nba.com/stats/teams/preseason?Season=2026-27&dir=D&sort=FG3A",analys
 |||**Kevin Love**|2 Times *(17, 18)*|
 |||**Zydrunas Ilgauskas**|1 Time *(05)*|
 |||**Mo Williams**|1 Time *(09)*|
-|**Total: 1 Unique Player**|**Total Seasons: 6**|**Total: 7 Unique Players**|**Total Seasons: 18**|",analysis,"pre-labeled; hard: analysis vs hot_take, chose analysis because it names a checkable fact"
+|**Total: 1 Unique Player**|**Total Seasons: 6**|**Total: 7 Unique Players**|**Total Seasons: 18**|",analysis,cold
 "Shai, J Dub and Chet will make up 90.9% of Cap in the 2030-2031 season, They will make a combined 184m.
 
 Currently those 3 players make up 75% of the cap. Next season it will go up to 85.6% of the cap with shais extension kicking in. By 30-31 it will reach 90.9%. They currently have Mcain, Ajay Mitchell and cason Wallace only making 9% of the cap. Cason Wallace will be a RFA next year set for a big pay bump, Ajay will be a UFA year after and McCain RFA year after.
